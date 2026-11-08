@@ -2,11 +2,11 @@
 
 > ⚡️ **每日/每周/每月 GitHub 爆火开源项目与黑马排位归档**。
 > 🌐 实时在线交互看板（支持 34 张多维榜单与 16 种国际语言）：**[https://git.zoyku.com](https://git.zoyku.com)**
-> 📅 **最新归档日期**：`2026-11-08` · 更新时间：`2026-11-08 06:27:00 UTC`
+> 📅 **最新归档日期**：`2026-11-08` · 更新时间：`2026-11-08 06:55:08 UTC`
 
-[![GitHub Hot Daily](https://img.shields.io/badge/GitHub%20Hot-Live%20Board-blue?style=for-the-badge&logo=github)](https://git.zoyku.com)
-[![Latest Archive](https://img.shields.io/badge/Daily%20Archive-2026-11-08-brightgreen?style=for-the-badge)](./daily/2026/2026-11/2026-11-08.md)
-[![Weekly Report](https://img.shields.io/badge/Weekly%20Surge-2026-W45-orange?style=for-the-badge)](./weekly/2026/2026-W45.md)
+[![GitHub Hot Daily](https://img.shields.io/static/v1?label=ZOYKU&message=Hot%20Board&color=blue&style=for-the-badge&logo=github)](https://git.zoyku.com)
+[![Daily Archive](https://img.shields.io/static/v1?label=Daily%20Archive&message=2026-11-08&color=brightgreen&style=for-the-badge)](./daily/2026/2026-11/2026-11-08.md)
+[![Weekly Report](https://img.shields.io/static/v1?label=Weekly%20Surge&message=2026-W45&color=orange&style=for-the-badge)](./weekly/2026/2026-W45.md)
 
 ---
 
