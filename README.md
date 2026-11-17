@@ -2,12 +2,12 @@
 
 > ⚡️ **全网开源项目实时火线榜 · 每日/每周/每月点火爆发与黑马排位权威归档**。
 > 🌐 实时在线交互看板（支持 34 张多维榜单与 16 种国际语言）：**[https://git.zoyku.com](https://git.zoyku.com)**
-> 📅 **最新归档日期**：`2026-11-16` · 更新时间：`2026-11-16 20:55:41 UTC`
+> 📅 **最新归档日期**：`2026-11-17` · 更新时间：`2026-11-17 02:55:42 UTC`
 
 [![GitHub Hot Daily](https://img.shields.io/static/v1?label=ZOYKU&message=Hot%20Board&color=blue&style=for-the-badge&logo=github)](https://git.zoyku.com)
 [![Weekly Report](https://img.shields.io/static/v1?label=Weekly%20Surge&message=2026-W47&color=orange&style=for-the-badge)](./weekly/2026/2026-W47.md)
 [![Monthly Picks](https://img.shields.io/static/v1?label=Monthly%20Picks&message=2026-11&color=blueviolet&style=for-the-badge)](https://git.zoyku.com/zh/boards/monthly)
-[![Daily Archive](https://img.shields.io/static/v1?label=Daily%20Archive&message=2026-11-16&color=brightgreen&style=for-the-badge)](./daily/2026/2026-11/2026-11-16.md)
+[![Daily Archive](https://img.shields.io/static/v1?label=Daily%20Archive&message=2026-11-17&color=brightgreen&style=for-the-badge)](./daily/2026/2026-11/2026-11-17.md)
 
 ---
 
@@ -35,9 +35,9 @@
 | **[月度风云榜](https://git.zoyku.com/zh/boards/monthly)** | `monthly` | 30日持续领跑 | [morluto/rea](https://git.zoyku.com/zh/repo/morluto/rea) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/monthly) |
 | **[全球总榜 Top 100](https://git.zoyku.com/zh/boards/overall)** | `overall` | 历史累积规模总顶峰 | [codecrafters-io/build-your-own-x](https://git.zoyku.com/zh/repo/codecrafters-io/build-your-own-x) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/overall) |
 | **[年度新星榜](https://git.zoyku.com/zh/boards/annual)** | `annual` | 本年度高潜力爆发 | [morluto/rea](https://git.zoyku.com/zh/repo/morluto/rea) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/annual) |
-| **[潜力飙升榜](https://git.zoyku.com/zh/boards/rising)** | `rising` | 24h动能增速飙升 | [jamesondh/chimera-vocal-synth](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/rising) |
+| **[潜力飙升榜](https://git.zoyku.com/zh/boards/rising)** | `rising` | 24h动能增速飙升 | [lee-xeo/claude-cage](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/rising) |
 | **[黑马破局榜](https://git.zoyku.com/zh/boards/dark)** | `dark` | 低基数高倍率增速奇迹 | [hellohub1212/dsh-windows-mcp](https://git.zoyku.com/zh/repo/hellohub1212/dsh-windows-mcp) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/dark) |
-| **[沉睡明珠榜](https://git.zoyku.com/zh/boards/overlooked)** | `overlooked` | 高价值沉淀被忽视宝藏 | [hellohub1212/dsh-windows-mcp](https://git.zoyku.com/zh/repo/hellohub1212/dsh-windows-mcp) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/overlooked) |
+| **[沉睡明珠榜](https://git.zoyku.com/zh/boards/overlooked)** | `overlooked` | 高价值沉淀被忽视宝藏 | [lee-xeo/claude-cage](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/overlooked) |
 | **[烈火争鸣榜](https://git.zoyku.com/zh/boards/controversial)** | `controversial` | 高热度话题争议讨论 | [google/it-cert-automation-practice](https://git.zoyku.com/zh/repo/google/it-cert-automation-practice) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/controversial) |
 | **[二创衍生榜](https://git.zoyku.com/zh/boards/forks)** | `forks` | Fork 比例与魔改率最高 | [jtleek/datasharing](https://git.zoyku.com/zh/repo/jtleek/datasharing) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/forks) |
 | **[里程碑跃进榜](https://git.zoyku.com/zh/boards/milestone)** | `milestone` | 即将冲破 1k/10k/100k 关口 | [dr5hn/countries-states-cities-database](https://git.zoyku.com/zh/repo/dr5hn/countries-states-cities-database) | [查看实时榜单 ↗](https://git.zoyku.com/zh/boards/milestone) |
@@ -69,7 +69,7 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `463.9k (463,889 Stars)` · **近期增长**: `+17.5k stars`
+- **主要语言**: `TypeScript` · **总星标**: `464.3k (464,346 Stars)` · **近期增长**: `+14.9k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/morluto/rea) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=morluto/rea) · [💻 GitHub 源码](https://github.com/morluto/rea)
 
 ### 🥈 #2 [storytold/craft-anything](https://git.zoyku.com/zh/repo/storytold/craft-anything)
@@ -82,23 +82,10 @@
   </picture>
 </a>
 
-- **主要语言**: `Rust` · **总星标**: `34.7k (34,668 Stars)` · **近期增长**: `+10.4k stars`
+- **主要语言**: `Rust` · **总星标**: `34.9k (34,894 Stars)` · **近期增长**: `+8.9k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/storytold/craft-anything) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=storytold/craft-anything) · [💻 GitHub 源码](https://github.com/storytold/craft-anything)
 
-### 🥉 #3 [meta/astryx](https://git.zoyku.com/zh/repo/meta/astryx)
-> An open source design system that's fully customizable and agent ready
-
-<a href="https://git.zoyku.com/zh/repo/meta/astryx" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/meta/astryx?theme=dark&lang=zh" />
-    <img alt="ZOYKU Hot Rank - meta/astryx" src="https://git.zoyku.com/api/badge/card/meta/astryx?theme=light&lang=zh" height="60" />
-  </picture>
-</a>
-
-- **主要语言**: `TypeScript` · **总星标**: `29.5k (29,504 Stars)` · **近期增长**: `+10.1k stars`
-- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/meta/astryx) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=meta/astryx) · [💻 GitHub 源码](https://github.com/meta/astryx)
-
-### ⭐ #4 [ebony-vinyl/dsh-our-free-model](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model)
+### 🥉 #3 [ebony-vinyl/dsh-our-free-model](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model)
 > 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
 <a href="https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model" target="_blank" rel="noopener noreferrer">
@@ -108,10 +95,10 @@
   </picture>
 </a>
 
-- **主要语言**: `JavaScript` · **总星标**: `77.2k (77,239 Stars)` · **近期增长**: `+9.9k stars`
+- **主要语言**: `JavaScript` · **总星标**: `77.5k (77,458 Stars)` · **近期增长**: `+8.8k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=ebony-vinyl/dsh-our-free-model) · [💻 GitHub 源码](https://github.com/ebony-vinyl/dsh-our-free-model)
 
-### ⭐ #5 [anefzaoui/misterdownloadmanager](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager)
+### ⭐ #4 [anefzaoui/misterdownloadmanager](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager)
 > misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
 
 <a href="https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager" target="_blank" rel="noopener noreferrer">
@@ -121,36 +108,49 @@
   </picture>
 </a>
 
-- **主要语言**: `Rust` · **总星标**: `11.1k (11,085 Stars)` · **近期增长**: `+8.1k stars`
+- **主要语言**: `Rust` · **总星标**: `11.2k (11,218 Stars)` · **近期增长**: `+8.2k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=anefzaoui/misterdownloadmanager) · [💻 GitHub 源码](https://github.com/anefzaoui/misterdownloadmanager)
+
+### ⭐ #5 [libracoder/kiri](https://git.zoyku.com/zh/repo/libracoder/kiri)
+> A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
+
+<a href="https://git.zoyku.com/zh/repo/libracoder/kiri" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/libracoder/kiri?theme=dark&lang=zh" />
+    <img alt="ZOYKU Hot Rank - libracoder/kiri" src="https://git.zoyku.com/api/badge/card/libracoder/kiri?theme=light&lang=zh" height="60" />
+  </picture>
+</a>
+
+- **主要语言**: `Rust` · **总星标**: `9.1k (9,056 Stars)` · **近期增长**: `+7.6k stars`
+- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/libracoder/kiri) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=libracoder/kiri) · [💻 GitHub 源码](https://github.com/libracoder/kiri)
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 7天绝对增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #6 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.5k | `+7.8k` | Agent skills |
-| #7 | [**libracoder/kiri**](https://git.zoyku.com/zh/repo/libracoder/kiri) | `Rust` | ⭐ 8.7k | `+7.3k` | A small, fast container runtime for macOS, Windows and Linux with free Ngro |
-| #8 | [**ccch1mneyyy/dsh-go**](https://git.zoyku.com/zh/repo/ccch1mneyyy/dsh-go) | `Dart` | ⭐ 24.7k | `+7.2k` | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
-| #9 | [**minireel/hghub**](https://git.zoyku.com/zh/repo/minireel/hghub) | `Rust` | ⭐ 9.5k | `+6.7k` | Plug-in media player |
-| #10 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.6k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
-| #11 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.7k | `+6.4k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
-| #12 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.1k | `+6.4k` | Hunt down social media accounts by username across social networks |
-| #13 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 325.9k | `+6.4k` | Skills for Real Engineers. Straight from my .agents directory. |
-| #14 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
-| #15 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 111.9k | `+5.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
-| #16 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 7.9k | `+5.7k` | Keep your coding agent up to date with the latest web best practices |
-| #17 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.3k | `+5.0k` | DeepSeek Harness: Everything is a Plugin. |
-| #18 | [**milind-soni/openmausbot**](https://git.zoyku.com/zh/repo/milind-soni/openmausbot) | `TypeScript` | ⭐ 24.2k | `+4.6k` | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| #19 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.2k | `+4.6k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
-| #20 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.1k | `+4.5k` | Makes your AI agent think like the laziest senior dev in the room. The best |
-| #21 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.5k | `+4.5k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
-| #22 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 35.9k | `+4.4k` | The headless browser for AI agents and web scraping |
-| #23 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 116.8k | `+4.4k` | Agent skills that give coding agents taste: art direction, reference images |
-| #24 | [**vercel-labs/agent-desktop**](https://git.zoyku.com/zh/repo/vercel-labs/agent-desktop) | `Rust` | ⭐ 24.6k | `+4.3k` | Computer use CLI for AI agents |
-| #25 | [**we-promise/sure**](https://git.zoyku.com/zh/repo/we-promise/sure) | `Ruby` | ⭐ 16.0k | `+4.2k` | The personal finance app for everyone (by everyone) |
-| #26 | [**zhulinsen/daily_stock_analysis**](https://git.zoyku.com/zh/repo/zhulinsen/daily_stock_analysis) | `Python` | ⭐ 72.8k | `+4.1k` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market  |
-| #27 | [**google/elephant-goldfish-model**](https://git.zoyku.com/zh/repo/google/elephant-goldfish-model) | `Python` | ⭐ 20.3k | `+4.1k` | Open-source plugin for designing and reviewing software with agents |
-| #28 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.0k | `+4.0k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
-| #29 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.3k | `+3.8k` | Production-grade engineering skills for AI coding agents. |
-| #30 | [**tashfeenahmed/freellmapi**](https://git.zoyku.com/zh/repo/tashfeenahmed/freellmapi) | `TypeScript` | ⭐ 53.4k | `+3.8k` | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endp |
+| #6 | [**meta/astryx**](https://git.zoyku.com/zh/repo/meta/astryx) | `TypeScript` | ⭐ 29.7k | `+7.3k` | An open source design system that's fully customizable and agent ready |
+| #7 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.6k | `+7.1k` | Agent skills |
+| #8 | [**aws/aws-emulator**](https://git.zoyku.com/zh/repo/aws/aws-emulator) | `Rust` | ⭐ 8.9k | `+6.8k` | AWS Emulator is a local emulator of the AWS APIs. |
+| #9 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 8.0k | `+6.5k` | Keep your coding agent up to date with the latest web best practices |
+| #10 | [**ccch1mneyyy/dsh-go**](https://git.zoyku.com/zh/repo/ccch1mneyyy/dsh-go) | `Dart` | ⭐ 24.9k | `+6.3k` | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
+| #11 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
+| #12 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.2k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
+| #13 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.9k | `+5.6k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
+| #14 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 326.0k | `+5.3k` | Skills for Real Engineers. Straight from my .agents directory. |
+| #15 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 112.0k | `+4.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
+| #16 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.2k | `+4.5k` | Hunt down social media accounts by username across social networks |
+| #17 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.4k | `+4.3k` | DeepSeek Harness: Everything is a Plugin. |
+| #18 | [**we-promise/sure**](https://git.zoyku.com/zh/repo/we-promise/sure) | `Ruby` | ⭐ 16.0k | `+4.3k` | The personal finance app for everyone (by everyone) |
+| #19 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 117.0k | `+4.0k` | Agent skills that give coding agents taste: art direction, reference images |
+| #20 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.2k | `+3.9k` | Makes your AI agent think like the laziest senior dev in the room. The best |
+| #21 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 36.0k | `+3.9k` | The headless browser for AI agents and web scraping |
+| #22 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.6k | `+3.8k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
+| #23 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.3k | `+3.7k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
+| #24 | [**milind-soni/openmausbot**](https://git.zoyku.com/zh/repo/milind-soni/openmausbot) | `TypeScript` | ⭐ 24.3k | `+3.7k` | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| #25 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.1k | `+3.6k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
+| #26 | [**vercel-labs/agent-desktop**](https://git.zoyku.com/zh/repo/vercel-labs/agent-desktop) | `Rust` | ⭐ 24.6k | `+3.4k` | Computer use CLI for AI agents |
+| #27 | [**tashfeenahmed/freellmapi**](https://git.zoyku.com/zh/repo/tashfeenahmed/freellmapi) | `TypeScript` | ⭐ 53.6k | `+3.4k` | 10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endp |
+| #28 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.4k | `+3.4k` | Production-grade engineering skills for AI coding agents. |
+| #29 | [**google/elephant-goldfish-model**](https://git.zoyku.com/zh/repo/google/elephant-goldfish-model) | `Python` | ⭐ 20.4k | `+3.3k` | Open-source plugin for designing and reviewing software with agents |
+| #30 | [**zhulinsen/daily_stock_analysis**](https://git.zoyku.com/zh/repo/zhulinsen/daily_stock_analysis) | `Python` | ⭐ 72.8k | `+3.3k` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market  |
 
 ---
 
@@ -167,7 +167,7 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `463.9k (463,889 Stars)` · **近期增长**: `+17.5k stars`
+- **主要语言**: `TypeScript` · **总星标**: `464.3k (464,346 Stars)` · **近期增长**: `+14.9k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/morluto/rea) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=morluto/rea) · [💻 GitHub 源码](https://github.com/morluto/rea)
 
 ### 🥈 #2 [storytold/craft-anything](https://git.zoyku.com/zh/repo/storytold/craft-anything)
@@ -180,51 +180,51 @@
   </picture>
 </a>
 
-- **主要语言**: `Rust` · **总星标**: `34.7k (34,668 Stars)` · **近期增长**: `+10.4k stars`
+- **主要语言**: `Rust` · **总星标**: `34.9k (34,894 Stars)` · **近期增长**: `+8.9k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/storytold/craft-anything) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=storytold/craft-anything) · [💻 GitHub 源码](https://github.com/storytold/craft-anything)
 
-### 🥉 #3 [meta/astryx](https://git.zoyku.com/zh/repo/meta/astryx)
-> An open source design system that's fully customizable and agent ready
+### 🥉 #3 [ebony-vinyl/dsh-our-free-model](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model)
+> 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
 
-<a href="https://git.zoyku.com/zh/repo/meta/astryx" target="_blank" rel="noopener noreferrer">
+<a href="https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model" target="_blank" rel="noopener noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/meta/astryx?theme=dark&lang=zh" />
-    <img alt="ZOYKU Hot Rank - meta/astryx" src="https://git.zoyku.com/api/badge/card/meta/astryx?theme=light&lang=zh" height="60" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/ebony-vinyl/dsh-our-free-model?theme=dark&lang=zh" />
+    <img alt="ZOYKU Hot Rank - ebony-vinyl/dsh-our-free-model" src="https://git.zoyku.com/api/badge/card/ebony-vinyl/dsh-our-free-model?theme=light&lang=zh" height="60" />
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `29.5k (29,504 Stars)` · **近期增长**: `+10.1k stars`
-- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/meta/astryx) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=meta/astryx) · [💻 GitHub 源码](https://github.com/meta/astryx)
+- **主要语言**: `JavaScript` · **总星标**: `77.5k (77,458 Stars)` · **近期增长**: `+8.8k stars`
+- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=ebony-vinyl/dsh-our-free-model) · [💻 GitHub 源码](https://github.com/ebony-vinyl/dsh-our-free-model)
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 月度绝对增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #4 | [**ebony-vinyl/dsh-our-free-model**](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model) | `JavaScript` | ⭐ 77.2k | `+9.9k` | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模 |
-| #5 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.1k | `+8.1k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
-| #6 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.5k | `+7.8k` | Agent skills |
-| #7 | [**codecrafters-io/build-your-own-x**](https://git.zoyku.com/zh/repo/codecrafters-io/build-your-own-x) | `Markdown` | ⭐ 563.1k | `+7.7k` | Master programming by recreating your favorite technologies from scratch. |
-| #8 | [**libracoder/kiri**](https://git.zoyku.com/zh/repo/libracoder/kiri) | `Rust` | ⭐ 8.7k | `+7.3k` | A small, fast container runtime for macOS, Windows and Linux with free Ngro |
-| #9 | [**ccch1mneyyy/dsh-go**](https://git.zoyku.com/zh/repo/ccch1mneyyy/dsh-go) | `Dart` | ⭐ 24.7k | `+7.2k` | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
-| #10 | [**minireel/hghub**](https://git.zoyku.com/zh/repo/minireel/hghub) | `Rust` | ⭐ 9.5k | `+6.7k` | Plug-in media player |
-| #11 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.6k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
-| #12 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.7k | `+6.4k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
-| #13 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.1k | `+6.4k` | Hunt down social media accounts by username across social networks |
-| #14 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 325.9k | `+6.4k` | Skills for Real Engineers. Straight from my .agents directory. |
-| #15 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
-| #16 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 111.9k | `+5.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
-| #17 | [**YuJunZhiXue/dsh-purge**](https://git.zoyku.com/zh/repo/YuJunZhiXue/dsh-purge) | `javascript` | ⭐ 13.1k | `+5.9k` | YuJunZhiXue/dsh-purge open-source repository on GitHub |
-| #18 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 7.9k | `+5.7k` | Keep your coding agent up to date with the latest web best practices |
-| #19 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.3k | `+5.0k` | DeepSeek Harness: Everything is a Plugin. |
-| #20 | [**dream-num/univer**](https://git.zoyku.com/zh/repo/dream-num/univer) | `TypeScript` | ⭐ 27.7k | `+5.0k` | Build your own AI office with Univer Office SDK. Bring editing, calculation |
-| #21 | [**milind-soni/openmausbot**](https://git.zoyku.com/zh/repo/milind-soni/openmausbot) | `TypeScript` | ⭐ 24.2k | `+4.6k` | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| #22 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.2k | `+4.6k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
-| #23 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.1k | `+4.5k` | Makes your AI agent think like the laziest senior dev in the room. The best |
-| #24 | [**kajisho5/ffmpeg-skill**](https://git.zoyku.com/zh/repo/kajisho5/ffmpeg-skill) | `Python` | ⭐ 6.5k | `+4.5k` | Local video editor for coding agents: 42 FFmpeg tools with a machine-readab |
-| #25 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.5k | `+4.5k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
-| #26 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 35.9k | `+4.4k` | The headless browser for AI agents and web scraping |
-| #27 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 116.8k | `+4.4k` | Agent skills that give coding agents taste: art direction, reference images |
-| #28 | [**vercel-labs/agent-desktop**](https://git.zoyku.com/zh/repo/vercel-labs/agent-desktop) | `Rust` | ⭐ 24.6k | `+4.3k` | Computer use CLI for AI agents |
-| #29 | [**we-promise/sure**](https://git.zoyku.com/zh/repo/we-promise/sure) | `Ruby` | ⭐ 16.0k | `+4.2k` | The personal finance app for everyone (by everyone) |
-| #30 | [**ranxianglei/billion-context**](https://git.zoyku.com/zh/repo/ranxianglei/billion-context) | `TypeScript` | ⭐ 6.6k | `+4.2k` | A context-compression plugin for month-long single sessions (billions of to |
+| #4 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.2k | `+8.2k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
+| #5 | [**codecrafters-io/build-your-own-x**](https://git.zoyku.com/zh/repo/codecrafters-io/build-your-own-x) | `Markdown` | ⭐ 563.2k | `+7.7k` | Master programming by recreating your favorite technologies from scratch. |
+| #6 | [**libracoder/kiri**](https://git.zoyku.com/zh/repo/libracoder/kiri) | `Rust` | ⭐ 9.1k | `+7.6k` | A small, fast container runtime for macOS, Windows and Linux with free Ngro |
+| #7 | [**meta/astryx**](https://git.zoyku.com/zh/repo/meta/astryx) | `TypeScript` | ⭐ 29.7k | `+7.3k` | An open source design system that's fully customizable and agent ready |
+| #8 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.6k | `+7.1k` | Agent skills |
+| #9 | [**aws/aws-emulator**](https://git.zoyku.com/zh/repo/aws/aws-emulator) | `Rust` | ⭐ 8.9k | `+6.8k` | AWS Emulator is a local emulator of the AWS APIs. |
+| #10 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 8.0k | `+6.5k` | Keep your coding agent up to date with the latest web best practices |
+| #11 | [**ccch1mneyyy/dsh-go**](https://git.zoyku.com/zh/repo/ccch1mneyyy/dsh-go) | `Dart` | ⭐ 24.9k | `+6.3k` | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
+| #12 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
+| #13 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.2k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
+| #14 | [**YuJunZhiXue/dsh-purge**](https://git.zoyku.com/zh/repo/YuJunZhiXue/dsh-purge) | `javascript` | ⭐ 13.1k | `+5.9k` | YuJunZhiXue/dsh-purge open-source repository on GitHub |
+| #15 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.9k | `+5.6k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
+| #16 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 326.0k | `+5.3k` | Skills for Real Engineers. Straight from my .agents directory. |
+| #17 | [**dream-num/univer**](https://git.zoyku.com/zh/repo/dream-num/univer) | `TypeScript` | ⭐ 27.9k | `+5.2k` | Build your own AI office with Univer Office SDK. Bring editing, calculation |
+| #18 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 112.0k | `+4.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
+| #19 | [**kajisho5/ffmpeg-skill**](https://git.zoyku.com/zh/repo/kajisho5/ffmpeg-skill) | `Python` | ⭐ 6.9k | `+4.9k` | Local video editor for coding agents: 42 FFmpeg tools with a machine-readab |
+| #20 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.2k | `+4.5k` | Hunt down social media accounts by username across social networks |
+| #21 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.4k | `+4.3k` | DeepSeek Harness: Everything is a Plugin. |
+| #22 | [**we-promise/sure**](https://git.zoyku.com/zh/repo/we-promise/sure) | `Ruby` | ⭐ 16.0k | `+4.3k` | The personal finance app for everyone (by everyone) |
+| #23 | [**ranxianglei/billion-context**](https://git.zoyku.com/zh/repo/ranxianglei/billion-context) | `TypeScript` | ⭐ 6.6k | `+4.2k` | A context-compression plugin for month-long single sessions (billions of to |
+| #24 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 117.0k | `+4.0k` | Agent skills that give coding agents taste: art direction, reference images |
+| #25 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.2k | `+3.9k` | Makes your AI agent think like the laziest senior dev in the room. The best |
+| #26 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 36.0k | `+3.9k` | The headless browser for AI agents and web scraping |
+| #27 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.6k | `+3.8k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
+| #28 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.3k | `+3.7k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
+| #29 | [**milind-soni/openmausbot**](https://git.zoyku.com/zh/repo/milind-soni/openmausbot) | `TypeScript` | ⭐ 24.3k | `+3.7k` | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| #30 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.1k | `+3.6k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
 
 ---
 
@@ -241,7 +241,7 @@
   </picture>
 </a>
 
-- **主要语言**: `Markdown` · **总星标**: `563.1k (563,140 Stars)` · **近期增长**: `+1.8k stars`
+- **主要语言**: `Markdown` · **总星标**: `563.2k (563,195 Stars)` · **近期增长**: `+1.6k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/codecrafters-io/build-your-own-x) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=codecrafters-io/build-your-own-x) · [💻 GitHub 源码](https://github.com/codecrafters-io/build-your-own-x)
 
 ### 🥈 #2 [sindresorhus/awesome](https://git.zoyku.com/zh/repo/sindresorhus/awesome)
@@ -254,7 +254,7 @@
   </picture>
 </a>
 
-- **主要语言**: `Other` · **总星标**: `537.9k (537,949 Stars)` · **近期增长**: `+3.8k stars`
+- **主要语言**: `Other` · **总星标**: `538.0k (538,044 Stars)` · **近期增长**: `+3.3k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/sindresorhus/awesome) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=sindresorhus/awesome) · [💻 GitHub 源码](https://github.com/sindresorhus/awesome)
 
 ### 🥉 #3 [public-apis/public-apis](https://git.zoyku.com/zh/repo/public-apis/public-apis)
@@ -267,7 +267,7 @@
   </picture>
 </a>
 
-- **主要语言**: `Python` · **总星标**: `499.6k (499,589 Stars)` · **近期增长**: `+2.0k stars`
+- **主要语言**: `Python` · **总星标**: `499.6k (499,637 Stars)` · **近期增长**: `+1.7k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/public-apis/public-apis) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=public-apis/public-apis) · [💻 GitHub 源码](https://github.com/public-apis/public-apis)
 
 ### ⭐ #4 [morluto/rea](https://git.zoyku.com/zh/repo/morluto/rea)
@@ -280,7 +280,7 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `463.9k (463,889 Stars)` · **近期增长**: `+17.5k stars`
+- **主要语言**: `TypeScript` · **总星标**: `464.3k (464,346 Stars)` · **近期增长**: `+14.9k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/morluto/rea) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=morluto/rea) · [💻 GitHub 源码](https://github.com/morluto/rea)
 
 ### ⭐ #5 [freecodecamp/freecodecamp](https://git.zoyku.com/zh/repo/freecodecamp/freecodecamp)
@@ -293,76 +293,89 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `459.2k (459,216 Stars)` · **近期增长**: `+396 stars`
+- **主要语言**: `TypeScript` · **总星标**: `459.2k (459,230 Stars)` · **近期增长**: `+294 stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/freecodecamp/freecodecamp) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=freecodecamp/freecodecamp) · [💻 GitHub 源码](https://github.com/freecodecamp/freecodecamp)
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 7天微调 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #6 | [**ebookfoundation/free-programming-books**](https://git.zoyku.com/zh/repo/ebookfoundation/free-programming-books) | `Python` | ⭐ 401.7k | `+319` | :books: Freely available programming books |
-| #7 | [**openclaw/openclaw**](https://git.zoyku.com/zh/repo/openclaw/openclaw) | `TypeScript` | ⭐ 394.6k | `+349` | The AI that really does things. Any OS. Any Platform. The lobster way. |
-| #8 | [**donnemartin/system-design-primer**](https://git.zoyku.com/zh/repo/donnemartin/system-design-primer) | `Python` | ⭐ 378.1k | `+651` | Learn how to design large-scale systems. Prep for the system design intervi |
-| #9 | [**nilbuild/developer-roadmap**](https://git.zoyku.com/zh/repo/nilbuild/developer-roadmap) | `TypeScript` | ⭐ 372.2k | `+512` | Interactive roadmaps, guides and other educational content to help develope |
-| #10 | [**jwasham/coding-interview-university**](https://git.zoyku.com/zh/repo/jwasham/coding-interview-university) | `Other` | ⭐ 364.4k | `+296` | A complete computer science study plan to become a software engineer. |
-| #11 | [**awesome-selfhosted/awesome-selfhosted**](https://git.zoyku.com/zh/repo/awesome-selfhosted/awesome-selfhosted) | `Other` | ⭐ 337.7k | `+2.3k` | A list of Free Software network services and web applications which can be  |
-| #12 | [**vinta/awesome-python**](https://git.zoyku.com/zh/repo/vinta/awesome-python) | `Python` | ⭐ 335.2k | `+1.7k` | The definitive list that answers "I want to do X in Python, which tool shou |
-| #13 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 325.9k | `+6.4k` | Skills for Real Engineers. Straight from my .agents directory. |
-| #14 | [**practical-tutorials/project-based-learning**](https://git.zoyku.com/zh/repo/practical-tutorials/project-based-learning) | `Python` | ⭐ 289.9k | `+434` | Curated list of project-based tutorials |
-| #15 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.3k | `+5.0k` | DeepSeek Harness: Everything is a Plugin. |
-| #16 | [**996icu/996.icu**](https://git.zoyku.com/zh/repo/996icu/996.icu) | `Other` | ⭐ 277.2k | `+1` | Repo for counting stars and contributing. Press F to pay respect to gloriou |
-| #17 | [**nousresearch/hermes-agent**](https://git.zoyku.com/zh/repo/nousresearch/hermes-agent) | `Python` | ⭐ 263.9k | `+1.9k` | The agent that grows with you |
-| #18 | [**trimstray/the-book-of-secret-knowledge**](https://git.zoyku.com/zh/repo/trimstray/the-book-of-secret-knowledge) | `Other` | ⭐ 259.0k | `+1.8k` | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-li |
-| #19 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+902` | Linux kernel source tree |
-| #20 | [**react/react**](https://git.zoyku.com/zh/repo/react/react) | `JavaScript` | ⭐ 252.7k | `+237` | The library for web and native user interfaces. |
-| #21 | [**anomalyco/opencode**](https://git.zoyku.com/zh/repo/anomalyco/opencode) | `TypeScript` | ⭐ 227.3k | `+1.6k` | The open source coding agent. |
-| #22 | [**thealgorithms/python**](https://git.zoyku.com/zh/repo/thealgorithms/python) | `Python` | ⭐ 226.2k | `+190` | All Algorithms implemented in Python |
-| #23 | [**vuejs/vue**](https://git.zoyku.com/zh/repo/vuejs/vue) | `TypeScript` | ⭐ 212.5k | `+-113` | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
-| #24 | [**ossu/computer-science**](https://git.zoyku.com/zh/repo/ossu/computer-science) | `HTML` | ⭐ 211.2k | `+139` | Path to a free self-taught education in Computer Science! |
-| #25 | [**n8n-io/n8n**](https://git.zoyku.com/zh/repo/n8n-io/n8n) | `TypeScript` | ⭐ 210.6k | `+715` | Fair-code workflow automation platform with native AI capabilities. Combine |
-| #26 | [**yt-dlp/yt-dlp**](https://git.zoyku.com/zh/repo/yt-dlp/yt-dlp) | `Python` | ⭐ 208.4k | `+1.9k` | A feature-rich command-line audio/video downloader |
-| #27 | [**digitalplatdev/freedomain**](https://git.zoyku.com/zh/repo/digitalplatdev/freedomain) | `Markdown` | ⭐ 208.4k | `+710` | Free domain registration and practical DNS learning resources for everyone. |
-| #28 | [**firecrawl/firecrawl**](https://git.zoyku.com/zh/repo/firecrawl/firecrawl) | `TypeScript` | ⭐ 202.3k | `+2.2k` | Supercharge your AI agents with data from the web and beyond. Building the  |
+| #6 | [**ebookfoundation/free-programming-books**](https://git.zoyku.com/zh/repo/ebookfoundation/free-programming-books) | `Python` | ⭐ 401.7k | `+262` | :books: Freely available programming books |
+| #7 | [**openclaw/openclaw**](https://git.zoyku.com/zh/repo/openclaw/openclaw) | `TypeScript` | ⭐ 394.6k | `+304` | The AI that really does things. Any OS. Any Platform. The lobster way. |
+| #8 | [**donnemartin/system-design-primer**](https://git.zoyku.com/zh/repo/donnemartin/system-design-primer) | `Python` | ⭐ 378.1k | `+551` | Learn how to design large-scale systems. Prep for the system design intervi |
+| #9 | [**nilbuild/developer-roadmap**](https://git.zoyku.com/zh/repo/nilbuild/developer-roadmap) | `TypeScript` | ⭐ 372.2k | `+434` | Interactive roadmaps, guides and other educational content to help develope |
+| #10 | [**jwasham/coding-interview-university**](https://git.zoyku.com/zh/repo/jwasham/coding-interview-university) | `Other` | ⭐ 364.5k | `+264` | A complete computer science study plan to become a software engineer. |
+| #11 | [**awesome-selfhosted/awesome-selfhosted**](https://git.zoyku.com/zh/repo/awesome-selfhosted/awesome-selfhosted) | `Other` | ⭐ 337.8k | `+2.0k` | A list of Free Software network services and web applications which can be  |
+| #12 | [**vinta/awesome-python**](https://git.zoyku.com/zh/repo/vinta/awesome-python) | `Python` | ⭐ 335.3k | `+1.5k` | The definitive list that answers "I want to do X in Python, which tool shou |
+| #13 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 326.0k | `+5.3k` | Skills for Real Engineers. Straight from my .agents directory. |
+| #14 | [**practical-tutorials/project-based-learning**](https://git.zoyku.com/zh/repo/practical-tutorials/project-based-learning) | `Python` | ⭐ 289.9k | `+384` | Curated list of project-based tutorials |
+| #15 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.4k | `+4.3k` | DeepSeek Harness: Everything is a Plugin. |
+| #16 | [**996icu/996.icu**](https://git.zoyku.com/zh/repo/996icu/996.icu) | `Other` | ⭐ 277.2k | `+-2` | Repo for counting stars and contributing. Press F to pay respect to gloriou |
+| #17 | [**nousresearch/hermes-agent**](https://git.zoyku.com/zh/repo/nousresearch/hermes-agent) | `Python` | ⭐ 263.9k | `+1.6k` | The agent that grows with you |
+| #18 | [**trimstray/the-book-of-secret-knowledge**](https://git.zoyku.com/zh/repo/trimstray/the-book-of-secret-knowledge) | `Other` | ⭐ 259.0k | `+1.6k` | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-li |
+| #19 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+799` | Linux kernel source tree |
+| #20 | [**react/react**](https://git.zoyku.com/zh/repo/react/react) | `JavaScript` | ⭐ 252.7k | `+231` | The library for web and native user interfaces. |
+| #21 | [**anomalyco/opencode**](https://git.zoyku.com/zh/repo/anomalyco/opencode) | `TypeScript` | ⭐ 227.3k | `+1.5k` | The open source coding agent. |
+| #22 | [**thealgorithms/python**](https://git.zoyku.com/zh/repo/thealgorithms/python) | `Python` | ⭐ 226.2k | `+188` | All Algorithms implemented in Python |
+| #23 | [**vuejs/vue**](https://git.zoyku.com/zh/repo/vuejs/vue) | `TypeScript` | ⭐ 212.5k | `+-112` | This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core |
+| #24 | [**ossu/computer-science**](https://git.zoyku.com/zh/repo/ossu/computer-science) | `HTML` | ⭐ 211.2k | `+105` | Path to a free self-taught education in Computer Science! |
+| #25 | [**n8n-io/n8n**](https://git.zoyku.com/zh/repo/n8n-io/n8n) | `TypeScript` | ⭐ 210.7k | `+666` | Fair-code workflow automation platform with native AI capabilities. Combine |
+| #26 | [**yt-dlp/yt-dlp**](https://git.zoyku.com/zh/repo/yt-dlp/yt-dlp) | `Python` | ⭐ 208.4k | `+1.8k` | A feature-rich command-line audio/video downloader |
+| #27 | [**digitalplatdev/freedomain**](https://git.zoyku.com/zh/repo/digitalplatdev/freedomain) | `Markdown` | ⭐ 208.4k | `+636` | Free domain registration and practical DNS learning resources for everyone. |
+| #28 | [**firecrawl/firecrawl**](https://git.zoyku.com/zh/repo/firecrawl/firecrawl) | `TypeScript` | ⭐ 202.4k | `+1.9k` | Supercharge your AI agents with data from the web and beyond. Building the  |
 | #29 | [**tensorflow/tensorflow**](https://git.zoyku.com/zh/repo/tensorflow/tensorflow) | `C++` | ⭐ 201.6k | `+173` | An Open Source Machine Learning Framework for Everyone |
-| #30 | [**massgravel/microsoft-activation-scripts**](https://git.zoyku.com/zh/repo/massgravel/microsoft-activation-scripts) | `Batchfile` | ⭐ 199.7k | `+1.4k` | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, an |
+| #30 | [**massgravel/microsoft-activation-scripts**](https://git.zoyku.com/zh/repo/massgravel/microsoft-activation-scripts) | `Batchfile` | ⭐ 199.8k | `+1.3k` | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, an |
 | #31 | [**trekhleb/javascript-algorithms**](https://git.zoyku.com/zh/repo/trekhleb/javascript-algorithms) | `JavaScript` | ⭐ 196.7k | `+7` | Algorithms and data structures implemented in JavaScript with explanations  |
-| #32 | [**microsoft/markitdown**](https://git.zoyku.com/zh/repo/microsoft/markitdown) | `Python` | ⭐ 195.8k | `+1.2k` | Python tool for converting files and office documents to Markdown. |
-| #33 | [**microsoft/vscode**](https://git.zoyku.com/zh/repo/microsoft/vscode) | `TypeScript` | ⭐ 195.5k | `+246` | Visual Studio Code |
-| #34 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-185` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
-| #35 | [**avelino/awesome-go**](https://git.zoyku.com/zh/repo/avelino/awesome-go) | `Go` | ⭐ 194.3k | `+1.3k` | A curated list of awesome Go frameworks, libraries and software |
-| #36 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.1k | `+4.5k` | Makes your AI agent think like the laziest senior dev in the room. The best |
-| #37 | [**ohmyzsh/ohmyzsh**](https://git.zoyku.com/zh/repo/ohmyzsh/ohmyzsh) | `Shell` | ⭐ 190.6k | `+229` | A delightful community-driven (with 2,500+ contributors) framework for mana |
-| #38 | [**521xueweihan/hellogithub**](https://git.zoyku.com/zh/repo/521xueweihan/hellogithub) | `Python` | ⭐ 189.3k | `+1.5k` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source |
-| #39 | [**significant-gravitas/autogpt**](https://git.zoyku.com/zh/repo/significant-gravitas/autogpt) | `Python` | ⭐ 188.1k | `+88` | AutoGPT is the vision of accessible AI for everyone, to use and to build on |
-| #40 | [**jackfrued/python-100-days**](https://git.zoyku.com/zh/repo/jackfrued/python-100-days) | `Jupyter Notebook` | ⭐ 187.9k | `+80` | Python - 100天从新手到大师 |
-| #41 | [**ollama/ollama**](https://git.zoyku.com/zh/repo/ollama/ollama) | `Go` | ⭐ 187.2k | `+809` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma  |
-| #42 | [**cyc2018/cs-notes**](https://git.zoyku.com/zh/repo/cyc2018/cs-notes) | `JavaScript` | ⭐ 186.5k | `+54` | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
-| #43 | [**getify/you-dont-know-js**](https://git.zoyku.com/zh/repo/getify/you-dont-know-js) | `Other` | ⭐ 184.9k | `+9` | A book series (2 published editions) on the JS language. |
-| #44 | [**flutter/flutter**](https://git.zoyku.com/zh/repo/flutter/flutter) | `Dart` | ⭐ 181.3k | `+152` | Flutter makes it easy and fast to build beautiful apps for mobile and beyon |
-| #45 | [**f/prompts.chat**](https://git.zoyku.com/zh/repo/f/prompts.chat) | `MDX` | ⭐ 177.7k | `+947` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from t |
-| #46 | [**github/gitignore**](https://git.zoyku.com/zh/repo/github/gitignore) | `Other` | ⭐ 176.3k | `+71` | A collection of useful .gitignore templates |
-| #47 | [**twbs/bootstrap**](https://git.zoyku.com/zh/repo/twbs/bootstrap) | `MDX` | ⭐ 175.1k | `+46` | The most popular HTML, CSS, and JavaScript framework for developing respons |
-| #48 | [**huggingface/transformers**](https://git.zoyku.com/zh/repo/huggingface/transformers) | `Python` | ⭐ 169.1k | `+365` | Transformers: the model-definition framework for state-of-the-art machine l |
-| #49 | [**msitarzewski/agency-agents**](https://git.zoyku.com/zh/repo/msitarzewski/agency-agents) | `Shell` | ⭐ 168.8k | `+1.3k` | A complete AI agency at your fingertips - From frontend wizards to Reddit c |
-| #50 | [**automatic1111/stable-diffusion-webui**](https://git.zoyku.com/zh/repo/automatic1111/stable-diffusion-webui) | `Python` | ⭐ 165.3k | `+59` | Stable Diffusion web UI |
+| #32 | [**microsoft/markitdown**](https://git.zoyku.com/zh/repo/microsoft/markitdown) | `Python` | ⭐ 195.8k | `+1.0k` | Python tool for converting files and office documents to Markdown. |
+| #33 | [**microsoft/vscode**](https://git.zoyku.com/zh/repo/microsoft/vscode) | `TypeScript` | ⭐ 195.5k | `+244` | Visual Studio Code |
+| #34 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-45` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
+| #35 | [**avelino/awesome-go**](https://git.zoyku.com/zh/repo/avelino/awesome-go) | `Go` | ⭐ 194.3k | `+1.2k` | A curated list of awesome Go frameworks, libraries and software |
+| #36 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.2k | `+3.9k` | Makes your AI agent think like the laziest senior dev in the room. The best |
+| #37 | [**ohmyzsh/ohmyzsh**](https://git.zoyku.com/zh/repo/ohmyzsh/ohmyzsh) | `Shell` | ⭐ 190.6k | `+209` | A delightful community-driven (with 2,500+ contributors) framework for mana |
+| #38 | [**521xueweihan/hellogithub**](https://git.zoyku.com/zh/repo/521xueweihan/hellogithub) | `Python` | ⭐ 189.4k | `+1.4k` | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source |
+| #39 | [**significant-gravitas/autogpt**](https://git.zoyku.com/zh/repo/significant-gravitas/autogpt) | `Python` | ⭐ 188.1k | `+76` | AutoGPT is the vision of accessible AI for everyone, to use and to build on |
+| #40 | [**jackfrued/python-100-days**](https://git.zoyku.com/zh/repo/jackfrued/python-100-days) | `Jupyter Notebook` | ⭐ 187.9k | `+81` | Python - 100天从新手到大师 |
+| #41 | [**ollama/ollama**](https://git.zoyku.com/zh/repo/ollama/ollama) | `Go` | ⭐ 187.3k | `+721` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma  |
+| #42 | [**cyc2018/cs-notes**](https://git.zoyku.com/zh/repo/cyc2018/cs-notes) | `JavaScript` | ⭐ 186.5k | `+50` | :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计 |
+| #43 | [**getify/you-dont-know-js**](https://git.zoyku.com/zh/repo/getify/you-dont-know-js) | `Other` | ⭐ 184.9k | `+8` | A book series (2 published editions) on the JS language. |
+| #44 | [**flutter/flutter**](https://git.zoyku.com/zh/repo/flutter/flutter) | `Dart` | ⭐ 181.3k | `+162` | Flutter makes it easy and fast to build beautiful apps for mobile and beyon |
+| #45 | [**f/prompts.chat**](https://git.zoyku.com/zh/repo/f/prompts.chat) | `MDX` | ⭐ 177.7k | `+851` | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from t |
+| #46 | [**github/gitignore**](https://git.zoyku.com/zh/repo/github/gitignore) | `Other` | ⭐ 176.3k | `+-136` | A collection of useful .gitignore templates |
+| #47 | [**twbs/bootstrap**](https://git.zoyku.com/zh/repo/twbs/bootstrap) | `MDX` | ⭐ 175.1k | `+36` | The most popular HTML, CSS, and JavaScript framework for developing respons |
+| #48 | [**huggingface/transformers**](https://git.zoyku.com/zh/repo/huggingface/transformers) | `Python` | ⭐ 169.1k | `+349` | Transformers: the model-definition framework for state-of-the-art machine l |
+| #49 | [**msitarzewski/agency-agents**](https://git.zoyku.com/zh/repo/msitarzewski/agency-agents) | `Shell` | ⭐ 168.8k | `+1.2k` | A complete AI agency at your fingertips - From frontend wizards to Reddit c |
+| #50 | [**automatic1111/stable-diffusion-webui**](https://git.zoyku.com/zh/repo/automatic1111/stable-diffusion-webui) | `Python` | ⭐ 165.3k | `+37` | Stable Diffusion web UI |
 
 ---
 
 ## 🔥 今日点火爆款 Top 30 (Daily Trending)
 > 实时追踪 24 小时内全球开发者关注度最高、Star 点火最迅猛的项目：
 
-### 🥇 #1 [jamesondh/chimera-vocal-synth](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth)
-> the ultimate vocal synthesizer - sing, speak, beatbox, and more
+### 🥇 #1 [lee-xeo/claude-cage](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage)
+> Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
 
-<a href="https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth" target="_blank" rel="noopener noreferrer">
+<a href="https://git.zoyku.com/zh/repo/lee-xeo/claude-cage" target="_blank" rel="noopener noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/jamesondh/chimera-vocal-synth?theme=dark&lang=zh" />
-    <img alt="ZOYKU Hot Rank - jamesondh/chimera-vocal-synth" src="https://git.zoyku.com/api/badge/card/jamesondh/chimera-vocal-synth?theme=light&lang=zh" height="60" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/lee-xeo/claude-cage?theme=dark&lang=zh" />
+    <img alt="ZOYKU Hot Rank - lee-xeo/claude-cage" src="https://git.zoyku.com/api/badge/card/lee-xeo/claude-cage?theme=light&lang=zh" height="60" />
   </picture>
 </a>
 
-- **主要语言**: `Rust` · **总星标**: `2.6k (2,555 Stars)` · **近期增长**: `+1.4k stars`
-- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=jamesondh/chimera-vocal-synth) · [💻 GitHub 源码](https://github.com/jamesondh/chimera-vocal-synth)
+- **主要语言**: `Go` · **总星标**: `2.5k (2,525 Stars)` · **近期增长**: `+1.4k stars`
+- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=lee-xeo/claude-cage) · [💻 GitHub 源码](https://github.com/lee-xeo/claude-cage)
 
-### 🥈 #2 [kkkkhazix/agent-autoloop](https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop)
+### 🥈 #2 [shanselman/gputaskman](https://git.zoyku.com/zh/repo/shanselman/gputaskman)
+> A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).
+
+<a href="https://git.zoyku.com/zh/repo/shanselman/gputaskman" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/shanselman/gputaskman?theme=dark&lang=zh" />
+    <img alt="ZOYKU Hot Rank - shanselman/gputaskman" src="https://git.zoyku.com/api/badge/card/shanselman/gputaskman?theme=light&lang=zh" height="60" />
+  </picture>
+</a>
+
+- **主要语言**: `Python` · **总星标**: `3.0k (2,960 Stars)` · **近期增长**: `+1.3k stars`
+- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/shanselman/gputaskman) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=shanselman/gputaskman) · [💻 GitHub 源码](https://github.com/shanselman/gputaskman)
+
+### 🥉 #3 [kkkkhazix/agent-autoloop](https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop)
 > 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
 
 <a href="https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop" target="_blank" rel="noopener noreferrer">
@@ -372,51 +385,38 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `5.7k (5,685 Stars)` · **近期增长**: `+1.4k stars`
+- **主要语言**: `TypeScript` · **总星标**: `5.7k (5,706 Stars)` · **近期增长**: `+1.3k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=kkkkhazix/agent-autoloop) · [💻 GitHub 源码](https://github.com/kkkkhazix/agent-autoloop)
-
-### 🥉 #3 [zortos293/lichii](https://git.zoyku.com/zh/repo/zortos293/lichii)
-> VERY experimental Nintendo Switch 2 emulator
-
-<a href="https://git.zoyku.com/zh/repo/zortos293/lichii" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git.zoyku.com/api/badge/card/zortos293/lichii?theme=dark&lang=zh" />
-    <img alt="ZOYKU Hot Rank - zortos293/lichii" src="https://git.zoyku.com/api/badge/card/zortos293/lichii?theme=light&lang=zh" height="60" />
-  </picture>
-</a>
-
-- **主要语言**: `C++` · **总星标**: `9.5k (9,488 Stars)` · **近期增长**: `+1.4k stars`
-- **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/zortos293/lichii) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=zortos293/lichii) · [💻 GitHub 源码](https://github.com/zortos293/lichii)
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 24h动量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #4 | [**hellohub1212/dsh-windows-mcp**](https://git.zoyku.com/zh/repo/hellohub1212/dsh-windows-mcp) | `JavaScript` | ⭐ 1.5k | `+1.4k` | Windows desktop automation for DeepSeek Harness: the in-box MCP client brid |
-| #5 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
-| #6 | [**google-deepmind/mujoco**](https://git.zoyku.com/zh/repo/google-deepmind/mujoco) | `C++` | ⭐ 18.2k | `+1.3k` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| #7 | [**jhaizhou-ops/s2arm**](https://git.zoyku.com/zh/repo/jhaizhou-ops/s2arm) | `C#` | ⭐ 3.0k | `+1.3k` | Run your own Switch games natively on iPhone, iPad and Mac: game code rewri |
-| #8 | [**jiafeimiao-k-cat/discimagestudio**](https://git.zoyku.com/zh/repo/jiafeimiao-k-cat/discimagestudio) | `C#` | ⭐ 10.2k | `+1.3k` | — |
-| #9 | [**shinyobjectz/raea**](https://git.zoyku.com/zh/repo/shinyobjectz/raea) | `TypeScript` | ⭐ 2.6k | `+1.2k` | Render Anything Engine: tell your AI what to make. Videos, motion graphics, |
-| #10 | [**ryze-ai-adgent/open-seo-mcp-skills**](https://git.zoyku.com/zh/repo/ryze-ai-adgent/open-seo-mcp-skills) | `Shell` | ⭐ 10.2k | `+1.2k` | Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword re |
-| #11 | [**elie222/rakazo**](https://git.zoyku.com/zh/repo/elie222/rakazo) | `TypeScript` | ⭐ 8.8k | `+1.1k` | Open-source Grok Bot alternative. Choose your own model and sandbox. |
-| #12 | [**gamedev-skills/awesome-gamedev-agent-skills**](https://git.zoyku.com/zh/repo/gamedev-skills/awesome-gamedev-agent-skills) | `Python` | ⭐ 9.1k | `+1.1k` | Make games with your AI coding agent: 79 game-dev skills and a router for G |
-| #13 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.1k` | ARTEX - AI autonomous penetration testing system (English translation) |
-| #14 | [**jenkinwoo/sheeridverify**](https://git.zoyku.com/zh/repo/jenkinwoo/sheeridverify) | `JavaScript` | ⭐ 3.0k | `+1.1k` | — |
-| #15 | [**librespark/libretv**](https://git.zoyku.com/zh/repo/librespark/libretv) | `TypeScript` | ⭐ 25.1k | `+1.0k` | 一分钟搭建影视站，支持Docker等部署方式 |
-| #16 | [**failproofai/failproofai**](https://git.zoyku.com/zh/repo/failproofai/failproofai) | `TypeScript` | ⭐ 9.3k | `+1.0k` | Observability and enforcement for AI agent harnesses. Capture every run and |
-| #17 | [**beenuar/aisoc**](https://git.zoyku.com/zh/repo/beenuar/aisoc) | `Python` | ⭐ 8.0k | `+1.0k` | Open-source AI Security Operations Center: alert fusion, LLM-agent triage,  |
-| #18 | [**youhunwl/tvapp**](https://git.zoyku.com/zh/repo/youhunwl/tvapp) | `JavaScript` | ⭐ 28.7k | `+1.0k` | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引 |
-| #19 | [**expo/exact**](https://git.zoyku.com/zh/repo/expo/exact) | `Rust` | ⭐ 2.9k | `+1.0k` | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and  |
-| #20 | [**l0ng-ai/openidea**](https://git.zoyku.com/zh/repo/l0ng-ai/openidea) | `TypeScript` | ⭐ 9.2k | `+1.0k` | The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows |
-| #21 | [**google-labs-code/stitch-skills**](https://git.zoyku.com/zh/repo/google-labs-code/stitch-skills) | `TypeScript` | ⭐ 9.7k | `+978` | A library of Agent Skills designed to work with the Stitch MCP server. Each |
-| #22 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+953` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
-| #23 | [**wangzan101/mika**](https://git.zoyku.com/zh/repo/wangzan101/mika) | `Kotlin` | ⭐ 8.8k | `+950` | An on-device AI agent for Android that operates apps and the web to get thi |
-| #24 | [**jakeschincariol/replica-skill**](https://git.zoyku.com/zh/repo/jakeschincariol/replica-skill) | `Python` | ⭐ 9.6k | `+935` | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild  |
-| #25 | [**iainkay/ram-altman**](https://git.zoyku.com/zh/repo/iainkay/ram-altman) | `Shell` | ⭐ 2.2k | `+894` | Monitors your RAM and reports any "quite terrible" unused capacity directly |
-| #26 | [**diygod/pinky**](https://git.zoyku.com/zh/repo/diygod/pinky) | `Go` | ⭐ 2.3k | `+885` | Let AI use your iPhone or Android phone, with you in the loop: any MCP agen |
-| #27 | [**leviidev/henge**](https://git.zoyku.com/zh/repo/leviidev/henge) | `C` | ⭐ 2.4k | `+823` | Emulate macOS on iOS and iPadOS |
-| #28 | [**murea-labs/inworld**](https://git.zoyku.com/zh/repo/murea-labs/inworld) | `Python` | ⭐ 3.0k | `+806` | — |
-| #29 | [**tangerineturtle1/nx2navi**](https://git.zoyku.com/zh/repo/tangerineturtle1/nx2navi) | `C` | ⭐ 3.0k | `+801` | — |
-| #30 | [**unixnu/unixnu**](https://git.zoyku.com/zh/repo/unixnu/unixnu) | `Python` | ⭐ 2.9k | `+794` | Run iOS and macOS on non-Apple ARM64 hardware through UEFI. |
+| #4 | [**ryze-ai-adgent/open-seo-mcp-skills**](https://git.zoyku.com/zh/repo/ryze-ai-adgent/open-seo-mcp-skills) | `Shell` | ⭐ 10.3k | `+1.1k` | Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword re |
+| #5 | [**homeassistant-ai/ha-mcp**](https://git.zoyku.com/zh/repo/homeassistant-ai/ha-mcp) | `Python` | ⭐ 7.6k | `+1.1k` | Configure and automate Home Assistant with Claude, ChatGPT, and other AI as |
+| #6 | [**google-labs-code/stitch-skills**](https://git.zoyku.com/zh/repo/google-labs-code/stitch-skills) | `TypeScript` | ⭐ 9.8k | `+1.0k` | A library of Agent Skills designed to work with the Stitch MCP server. Each |
+| #7 | [**elie222/rakazo**](https://git.zoyku.com/zh/repo/elie222/rakazo) | `TypeScript` | ⭐ 8.9k | `+1.0k` | Open-source Grok Bot alternative. Choose your own model and sandbox. |
+| #8 | [**gamedev-skills/awesome-gamedev-agent-skills**](https://git.zoyku.com/zh/repo/gamedev-skills/awesome-gamedev-agent-skills) | `Python` | ⭐ 9.2k | `+1.0k` | Make games with your AI coding agent: 79 game-dev skills and a router for G |
+| #9 | [**expo/exact**](https://git.zoyku.com/zh/repo/expo/exact) | `Rust` | ⭐ 2.9k | `+1.0k` | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and  |
+| #10 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.0k` | ARTEX - AI autonomous penetration testing system (English translation) |
+| #11 | [**jiafeimiao-k-cat/discimagestudio**](https://git.zoyku.com/zh/repo/jiafeimiao-k-cat/discimagestudio) | `C#` | ⭐ 10.2k | `+988` | — |
+| #12 | [**jamesondh/chimera-vocal-synth**](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | `Rust` | ⭐ 2.6k | `+983` | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
+| #13 | [**jenkinwoo/sheeridverify**](https://git.zoyku.com/zh/repo/jenkinwoo/sheeridverify) | `JavaScript` | ⭐ 3.0k | `+978` | — |
+| #14 | [**failproofai/failproofai**](https://git.zoyku.com/zh/repo/failproofai/failproofai) | `TypeScript` | ⭐ 9.3k | `+974` | Observability and enforcement for AI agent harnesses. Capture every run and |
+| #15 | [**google-deepmind/mujoco**](https://git.zoyku.com/zh/repo/google-deepmind/mujoco) | `C++` | ⭐ 18.2k | `+917` | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| #16 | [**beenuar/aisoc**](https://git.zoyku.com/zh/repo/beenuar/aisoc) | `Python` | ⭐ 8.0k | `+901` | Open-source AI Security Operations Center: alert fusion, LLM-agent triage,  |
+| #17 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+871` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
+| #18 | [**librespark/libretv**](https://git.zoyku.com/zh/repo/librespark/libretv) | `TypeScript` | ⭐ 25.1k | `+864` | 一分钟搭建影视站，支持Docker等部署方式 |
+| #19 | [**jakeschincariol/replica-skill**](https://git.zoyku.com/zh/repo/jakeschincariol/replica-skill) | `Python` | ⭐ 9.6k | `+834` | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild  |
+| #20 | [**wangzan101/mika**](https://git.zoyku.com/zh/repo/wangzan101/mika) | `Kotlin` | ⭐ 8.9k | `+823` | An on-device AI agent for Android that operates apps and the web to get thi |
+| #21 | [**l0ng-ai/openidea**](https://git.zoyku.com/zh/repo/l0ng-ai/openidea) | `TypeScript` | ⭐ 9.2k | `+799` | The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows |
+| #22 | [**youhunwl/tvapp**](https://git.zoyku.com/zh/repo/youhunwl/tvapp) | `JavaScript` | ⭐ 28.7k | `+787` | 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引 |
+| #23 | [**shinyobjectz/raea**](https://git.zoyku.com/zh/repo/shinyobjectz/raea) | `TypeScript` | ⭐ 2.7k | `+743` | Render Anything Engine: tell your AI what to make. Videos, motion graphics, |
+| #24 | [**oinkvm/oink**](https://git.zoyku.com/zh/repo/oinkvm/oink) | `Rust` | ⭐ 1.9k | `+728` | Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, |
+| #25 | [**kianuni/erosion-cn**](https://git.zoyku.com/zh/repo/kianuni/erosion-cn) | `Swift` | ⭐ 2.2k | `+709` | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe i |
+| #26 | [**maillab/cloud-mail**](https://git.zoyku.com/zh/repo/maillab/cloud-mail) | `JavaScript` | ⭐ 16.3k | `+706` | An all-in-one email service platform powered by Cloudflare \| 基于 Cloudflare |
+| #27 | [**murea-labs/inworld**](https://git.zoyku.com/zh/repo/murea-labs/inworld) | `Python` | ⭐ 3.0k | `+654` | — |
+| #28 | [**diygod/pinky**](https://git.zoyku.com/zh/repo/diygod/pinky) | `Go` | ⭐ 2.3k | `+649` | Let AI use your iPhone or Android phone, with you in the loop: any MCP agen |
+| #29 | [**xiaoyang111222/cn-math-taxonomy**](https://git.zoyku.com/zh/repo/xiaoyang111222/cn-math-taxonomy) | `Python` | ⭐ 8.3k | `+641` | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 |
+| #30 | [**longbridge/gpui-kit**](https://git.zoyku.com/zh/repo/longbridge/gpui-kit) | `Rust` | ⭐ 20.9k | `+638` | Rust GUI components for building fantastic cross-platform desktop applicati |
 
 ---
 
@@ -433,7 +433,7 @@
   </picture>
 </a>
 
-- **主要语言**: `JavaScript` · **总星标**: `1.5k (1,462 Stars)` · **近期增长**: `+1.4k stars`
+- **主要语言**: `JavaScript` · **总星标**: `1.5k (1,484 Stars)` · **近期增长**: `+1.4k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/hellohub1212/dsh-windows-mcp) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=hellohub1212/dsh-windows-mcp) · [💻 GitHub 源码](https://github.com/hellohub1212/dsh-windows-mcp)
 
 ### 🥈 #2 [frigadehq/yogurt](https://git.zoyku.com/zh/repo/frigadehq/yogurt)
@@ -446,7 +446,7 @@
   </picture>
 </a>
 
-- **主要语言**: `TypeScript` · **总星标**: `1.8k (1,842 Stars)` · **近期增长**: `+1.6k stars`
+- **主要语言**: `TypeScript` · **总星标**: `1.9k (1,886 Stars)` · **近期增长**: `+1.7k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/frigadehq/yogurt) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=frigadehq/yogurt) · [💻 GitHub 源码](https://github.com/frigadehq/yogurt)
 
 ### 🥉 #3 [libracoder/kiri](https://git.zoyku.com/zh/repo/libracoder/kiri)
@@ -459,28 +459,28 @@
   </picture>
 </a>
 
-- **主要语言**: `Rust` · **总星标**: `8.7k (8,698 Stars)` · **近期增长**: `+7.3k stars`
+- **主要语言**: `Rust` · **总星标**: `9.1k (9,056 Stars)` · **近期增长**: `+7.6k stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/libracoder/kiri) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?targets=libracoder/kiri) · [💻 GitHub 源码](https://github.com/libracoder/kiri)
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 增量动量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #4 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.6k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
-| #5 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.5k | `+7.8k` | Agent skills |
-| #6 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.1k | `+8.1k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
-| #7 | [**minireel/hghub**](https://git.zoyku.com/zh/repo/minireel/hghub) | `Rust` | ⭐ 9.5k | `+6.7k` | Plug-in media player |
+| #4 | [**huamidev/gestaltx**](https://git.zoyku.com/zh/repo/huamidev/gestaltx) | `Swift` | ⭐ 7.9k | `+6.2k` | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device  |
+| #5 | [**aws/aws-emulator**](https://git.zoyku.com/zh/repo/aws/aws-emulator) | `Rust` | ⭐ 8.9k | `+6.8k` | AWS Emulator is a local emulator of the AWS APIs. |
+| #6 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.2k | `+8.2k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
+| #7 | [**janestreet/agent_skills**](https://git.zoyku.com/zh/repo/janestreet/agent_skills) | `Other` | ⭐ 9.6k | `+7.1k` | Agent skills |
 | #8 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
 | #9 | [**likely7/veyra-nrvideo**](https://git.zoyku.com/zh/repo/likely7/veyra-nrvideo) | `C++` | ⭐ 3.0k | `+1.9k` | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and  |
-| #10 | [**jamesondh/chimera-vocal-synth**](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | `Rust` | ⭐ 2.6k | `+1.4k` | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
-| #11 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
-| #12 | [**shanselman/gputaskman**](https://git.zoyku.com/zh/repo/shanselman/gputaskman) | `Python` | ⭐ 3.0k | `+1.5k` | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activ |
-| #13 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+953` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
-| #14 | [**shinyobjectz/raea**](https://git.zoyku.com/zh/repo/shinyobjectz/raea) | `TypeScript` | ⭐ 2.6k | `+1.2k` | Render Anything Engine: tell your AI what to make. Videos, motion graphics, |
-| #15 | [**jhaizhou-ops/s2arm**](https://git.zoyku.com/zh/repo/jhaizhou-ops/s2arm) | `C#` | ⭐ 3.0k | `+1.3k` | Run your own Switch games natively on iPhone, iPad and Mac: game code rewri |
-| #16 | [**kirtiramchandani/memory.cpp**](https://git.zoyku.com/zh/repo/kirtiramchandani/memory.cpp) | `Rust` | ⭐ 728 | `+312` | Your repo remembers: local-first AI memory and context control plane for de |
-| #17 | [**iainkay/ram-altman**](https://git.zoyku.com/zh/repo/iainkay/ram-altman) | `Shell` | ⭐ 2.2k | `+894` | Monitors your RAM and reports any "quite terrible" unused capacity directly |
-| #18 | [**diygod/pinky**](https://git.zoyku.com/zh/repo/diygod/pinky) | `Go` | ⭐ 2.3k | `+885` | Let AI use your iPhone or Android phone, with you in the loop: any MCP agen |
-| #19 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.1k` | ARTEX - AI autonomous penetration testing system (English translation) |
-| #20 | [**oinkvm/oink**](https://git.zoyku.com/zh/repo/oinkvm/oink) | `Rust` | ⭐ 1.9k | `+720` | Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, |
+| #10 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
+| #11 | [**tylertms/stela**](https://git.zoyku.com/zh/repo/tylertms/stela) | `Rust` | ⭐ 2.8k | `+1.5k` | A translation-based Apple Silicon layer for x86-64 PCs |
+| #12 | [**shanselman/gputaskman**](https://git.zoyku.com/zh/repo/shanselman/gputaskman) | `Python` | ⭐ 3.0k | `+1.3k` | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activ |
+| #13 | [**huawei-csl/macaq**](https://git.zoyku.com/zh/repo/huawei-csl/macaq) | `C++` | ⭐ 340 | `+152` | SOTA model-agnostic quantization for GGUF, local inference and beyond. Quan |
+| #14 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+871` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
+| #15 | [**jamesondh/chimera-vocal-synth**](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | `Rust` | ⭐ 2.6k | `+983` | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
+| #16 | [**oinkvm/oink**](https://git.zoyku.com/zh/repo/oinkvm/oink) | `Rust` | ⭐ 1.9k | `+728` | Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, |
+| #17 | [**expo/exact**](https://git.zoyku.com/zh/repo/expo/exact) | `Rust` | ⭐ 2.9k | `+1.0k` | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and  |
+| #18 | [**tgrpg/awesome-telegram**](https://git.zoyku.com/zh/repo/tgrpg/awesome-telegram) | `JavaScript` | ⭐ 1.7k | `+590` | Awesome Telegram channels, groups & bots — a curated, daily-updated list (中 |
+| #19 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.0k` | ARTEX - AI autonomous penetration testing system (English translation) |
+| #20 | [**veloresearch/kinetic**](https://git.zoyku.com/zh/repo/veloresearch/kinetic) | `Rust` | ⭐ 90 | `+30` | The open engine for running AI on your own computer. Fast, exact, open sour |
 
 ---
 
@@ -489,26 +489,26 @@
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 年度累积 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 463.9k | `+17.5k` | Reverse engineer anything with agents, from app behavior down to native bin |
-| #2 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 325.9k | `+6.4k` | Skills for Real Engineers. Straight from my .agents directory. |
-| #3 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.3k | `+5.0k` | DeepSeek Harness: Everything is a Plugin. |
-| #4 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-185` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
-| #5 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.1k | `+4.5k` | Makes your AI agent think like the laziest senior dev in the room. The best |
-| #6 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.0k | `+4.0k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
-| #7 | [**garrytan/gstack**](https://git.zoyku.com/zh/repo/garrytan/gstack) | `TypeScript` | ⭐ 141.8k | `+864` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as |
-| #8 | [**voltagent/awesome-design-md**](https://git.zoyku.com/zh/repo/voltagent/awesome-design-md) | `Other` | ⭐ 127.8k | `+1.5k` | A collection of DESIGN.md files analysis by popular brand design systems. D |
-| #9 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.7k | `+6.4k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
-| #10 | [**juliusbrussee/caveman**](https://git.zoyku.com/zh/repo/juliusbrussee/caveman) | `Go` | ⭐ 120.7k | `+2.1k` | why use many token when few token do trick. Viral skill + proxy for coding  |
-| #11 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.3k | `+3.8k` | Production-grade engineering skills for AI coding agents. |
-| #12 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 116.8k | `+4.4k` | Agent skills that give coding agents taste: art direction, reference images |
-| #13 | [**paperclipai/paperclip**](https://git.zoyku.com/zh/repo/paperclipai/paperclip) | `TypeScript` | ⭐ 114.3k | `+1.7k` | The open-source app everyone uses to manage agents at work |
-| #14 | [**panniantong/agent-reach**](https://git.zoyku.com/zh/repo/panniantong/agent-reach) | `Python` | ⭐ 112.3k | `+1.7k` | Give your AI agent eyes to see the entire internet. Read & search Twitter,  |
-| #15 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 111.9k | `+5.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
-| #16 | [**nexu-io/open-design**](https://git.zoyku.com/zh/repo/nexu-io/open-design) | `TypeScript` | ⭐ 107.9k | `+1.1k` | The 1st Collaborative AI Design Agent Workspace. Local-first and open sourc |
-| #17 | [**karpathy/autoresearch**](https://git.zoyku.com/zh/repo/karpathy/autoresearch) | `Python` | ⭐ 100.1k | `+454` | AI agents running research on single-GPU nanochat training automatically |
-| #18 | [**tt-a1i/archify**](https://git.zoyku.com/zh/repo/tt-a1i/archify) | `JavaScript` | ⭐ 97.1k | `+2.1k` | Turn any idea, plan, or codebase into a beautiful interactive diagram. An a |
-| #19 | [**odysseus-dev/odysseus**](https://git.zoyku.com/zh/repo/odysseus-dev/odysseus) | `Python` | ⭐ 95.7k | `+205` | Self-hosted AI workspace. |
-| #20 | [**egonex-ai/understand-anything**](https://git.zoyku.com/zh/repo/egonex-ai/understand-anything) | `TypeScript` | ⭐ 92.8k | `+1.1k` | Graphs that teach > graphs that impress. Turn any code into an interactive  |
+| #1 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 464.3k | `+14.9k` | Reverse engineer anything with agents, from app behavior down to native bin |
+| #2 | [**mattpocock/skills**](https://git.zoyku.com/zh/repo/mattpocock/skills) | `Shell` | ⭐ 326.0k | `+5.3k` | Skills for Real Engineers. Straight from my .agents directory. |
+| #3 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.4k | `+4.3k` | DeepSeek Harness: Everything is a Plugin. |
+| #4 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-45` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
+| #5 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.2k | `+3.9k` | Makes your AI agent think like the laziest senior dev in the room. The best |
+| #6 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.1k | `+3.6k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
+| #7 | [**garrytan/gstack**](https://git.zoyku.com/zh/repo/garrytan/gstack) | `TypeScript` | ⭐ 141.8k | `+740` | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as |
+| #8 | [**voltagent/awesome-design-md**](https://git.zoyku.com/zh/repo/voltagent/awesome-design-md) | `Other` | ⭐ 127.8k | `+1.4k` | A collection of DESIGN.md files analysis by popular brand design systems. D |
+| #9 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.9k | `+5.6k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
+| #10 | [**juliusbrussee/caveman**](https://git.zoyku.com/zh/repo/juliusbrussee/caveman) | `Go` | ⭐ 120.8k | `+1.9k` | why use many token when few token do trick. Viral skill + proxy for coding  |
+| #11 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.4k | `+3.4k` | Production-grade engineering skills for AI coding agents. |
+| #12 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 117.0k | `+4.0k` | Agent skills that give coding agents taste: art direction, reference images |
+| #13 | [**paperclipai/paperclip**](https://git.zoyku.com/zh/repo/paperclipai/paperclip) | `TypeScript` | ⭐ 114.4k | `+1.5k` | The open-source app everyone uses to manage agents at work |
+| #14 | [**panniantong/agent-reach**](https://git.zoyku.com/zh/repo/panniantong/agent-reach) | `Python` | ⭐ 112.4k | `+1.5k` | Give your AI agent eyes to see the entire internet. Read & search Twitter,  |
+| #15 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 112.0k | `+4.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
+| #16 | [**nexu-io/open-design**](https://git.zoyku.com/zh/repo/nexu-io/open-design) | `TypeScript` | ⭐ 108.0k | `+950` | The 1st Collaborative AI Design Agent Workspace. Local-first and open sourc |
+| #17 | [**karpathy/autoresearch**](https://git.zoyku.com/zh/repo/karpathy/autoresearch) | `Python` | ⭐ 100.1k | `+400` | AI agents running research on single-GPU nanochat training automatically |
+| #18 | [**tt-a1i/archify**](https://git.zoyku.com/zh/repo/tt-a1i/archify) | `JavaScript` | ⭐ 97.2k | `+1.9k` | Turn any idea, plan, or codebase into a beautiful interactive diagram. An a |
+| #19 | [**odysseus-dev/odysseus**](https://git.zoyku.com/zh/repo/odysseus-dev/odysseus) | `Python` | ⭐ 95.7k | `+179` | Self-hosted AI workspace. |
+| #20 | [**egonex-ai/understand-anything**](https://git.zoyku.com/zh/repo/egonex-ai/understand-anything) | `TypeScript` | ⭐ 92.9k | `+1.0k` | Graphs that teach > graphs that impress. Turn any code into an interactive  |
 
 ---
 
@@ -517,26 +517,26 @@
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 历史星标 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**hellohub1212/dsh-windows-mcp**](https://git.zoyku.com/zh/repo/hellohub1212/dsh-windows-mcp) | `JavaScript` | ⭐ 1.5k | `+1.4k` | Windows desktop automation for DeepSeek Harness: the in-box MCP client brid |
-| #2 | [**jamesondh/chimera-vocal-synth**](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | `Rust` | ⭐ 2.6k | `+1.4k` | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
-| #3 | [**kkkkhazix/agent-autoloop**](https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop) | `TypeScript` | ⭐ 5.7k | `+1.4k` | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| #4 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
-| #5 | [**jhaizhou-ops/s2arm**](https://git.zoyku.com/zh/repo/jhaizhou-ops/s2arm) | `C#` | ⭐ 3.0k | `+1.3k` | Run your own Switch games natively on iPhone, iPad and Mac: game code rewri |
-| #6 | [**shinyobjectz/raea**](https://git.zoyku.com/zh/repo/shinyobjectz/raea) | `TypeScript` | ⭐ 2.6k | `+1.2k` | Render Anything Engine: tell your AI what to make. Videos, motion graphics, |
-| #7 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.1k` | ARTEX - AI autonomous penetration testing system (English translation) |
-| #8 | [**jenkinwoo/sheeridverify**](https://git.zoyku.com/zh/repo/jenkinwoo/sheeridverify) | `JavaScript` | ⭐ 3.0k | `+1.1k` | — |
-| #9 | [**expo/exact**](https://git.zoyku.com/zh/repo/expo/exact) | `Rust` | ⭐ 2.9k | `+1.0k` | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and  |
-| #10 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+953` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
-| #11 | [**iainkay/ram-altman**](https://git.zoyku.com/zh/repo/iainkay/ram-altman) | `Shell` | ⭐ 2.2k | `+894` | Monitors your RAM and reports any "quite terrible" unused capacity directly |
-| #12 | [**diygod/pinky**](https://git.zoyku.com/zh/repo/diygod/pinky) | `Go` | ⭐ 2.3k | `+885` | Let AI use your iPhone or Android phone, with you in the loop: any MCP agen |
-| #13 | [**leviidev/henge**](https://git.zoyku.com/zh/repo/leviidev/henge) | `C` | ⭐ 2.4k | `+823` | Emulate macOS on iOS and iPadOS |
-| #14 | [**murea-labs/inworld**](https://git.zoyku.com/zh/repo/murea-labs/inworld) | `Python` | ⭐ 3.0k | `+806` | — |
-| #15 | [**tangerineturtle1/nx2navi**](https://git.zoyku.com/zh/repo/tangerineturtle1/nx2navi) | `C` | ⭐ 3.0k | `+801` | — |
-| #16 | [**unixnu/unixnu**](https://git.zoyku.com/zh/repo/unixnu/unixnu) | `Python` | ⭐ 2.9k | `+794` | Run iOS and macOS on non-Apple ARM64 hardware through UEFI. |
-| #17 | [**sarpstar/cinecode**](https://git.zoyku.com/zh/repo/sarpstar/cinecode) | `Python` | ⭐ 2.6k | `+724` | Films made with code. Short films, long YouTube videos, ads, explainers and |
-| #18 | [**oinkvm/oink**](https://git.zoyku.com/zh/repo/oinkvm/oink) | `Rust` | ⭐ 1.9k | `+720` | Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, |
-| #19 | [**kianuni/erosion-cn**](https://git.zoyku.com/zh/repo/kianuni/erosion-cn) | `Swift` | ⭐ 2.2k | `+699` | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe i |
-| #20 | [**reacher-z/awesome-rea**](https://git.zoyku.com/zh/repo/reacher-z/awesome-rea) | `Python` | ⭐ 3.0k | `+699` | Curated tools, case studies and papers for reverse engineering websites, ga |
+| #1 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
+| #2 | [**shanselman/gputaskman**](https://git.zoyku.com/zh/repo/shanselman/gputaskman) | `Python` | ⭐ 3.0k | `+1.3k` | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activ |
+| #3 | [**kkkkhazix/agent-autoloop**](https://git.zoyku.com/zh/repo/kkkkhazix/agent-autoloop) | `TypeScript` | ⭐ 5.7k | `+1.3k` | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| #4 | [**expo/exact**](https://git.zoyku.com/zh/repo/expo/exact) | `Rust` | ⭐ 2.9k | `+1.0k` | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and  |
+| #5 | [**baarai/artex**](https://git.zoyku.com/zh/repo/baarai/artex) | `Go` | ⭐ 3.0k | `+1.0k` | ARTEX - AI autonomous penetration testing system (English translation) |
+| #6 | [**jamesondh/chimera-vocal-synth**](https://git.zoyku.com/zh/repo/jamesondh/chimera-vocal-synth) | `Rust` | ⭐ 2.6k | `+983` | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
+| #7 | [**jenkinwoo/sheeridverify**](https://git.zoyku.com/zh/repo/jenkinwoo/sheeridverify) | `JavaScript` | ⭐ 3.0k | `+978` | — |
+| #8 | [**woyun520/gif-factory**](https://git.zoyku.com/zh/repo/woyun520/gif-factory) | `Python` | ⭐ 2.0k | `+871` | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
+| #9 | [**shinyobjectz/raea**](https://git.zoyku.com/zh/repo/shinyobjectz/raea) | `TypeScript` | ⭐ 2.7k | `+743` | Render Anything Engine: tell your AI what to make. Videos, motion graphics, |
+| #10 | [**oinkvm/oink**](https://git.zoyku.com/zh/repo/oinkvm/oink) | `Rust` | ⭐ 1.9k | `+728` | Your computers, working as one. Share keyboard, mouse, trackpad, clipboard, |
+| #11 | [**kianuni/erosion-cn**](https://git.zoyku.com/zh/repo/kianuni/erosion-cn) | `Swift` | ⭐ 2.2k | `+709` | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe i |
+| #12 | [**murea-labs/inworld**](https://git.zoyku.com/zh/repo/murea-labs/inworld) | `Python` | ⭐ 3.0k | `+654` | — |
+| #13 | [**diygod/pinky**](https://git.zoyku.com/zh/repo/diygod/pinky) | `Go` | ⭐ 2.3k | `+649` | Let AI use your iPhone or Android phone, with you in the loop: any MCP agen |
+| #14 | [**purpledoubled/locally-uncensored**](https://git.zoyku.com/zh/repo/purpledoubled/locally-uncensored) | `TypeScript` | ⭐ 4.3k | `+636` | The all-in-one local AI studio for your desktop: chat, image and video gene |
+| #15 | [**jhaizhou-ops/s2arm**](https://git.zoyku.com/zh/repo/jhaizhou-ops/s2arm) | `C#` | ⭐ 3.0k | `+625` | Run your own Switch games natively on iPhone, iPad and Mac: game code rewri |
+| #16 | [**tgrpg/awesome-telegram**](https://git.zoyku.com/zh/repo/tgrpg/awesome-telegram) | `JavaScript` | ⭐ 1.7k | `+590` | Awesome Telegram channels, groups & bots — a curated, daily-updated list (中 |
+| #17 | [**ray-lea/argus**](https://git.zoyku.com/zh/repo/ray-lea/argus) | `Rust` | ⭐ 1.8k | `+574` | 现代 Windows 任务管理器 · A modern task manager for Windows, built with Rust and G |
+| #18 | [**unixnu/unixnu**](https://git.zoyku.com/zh/repo/unixnu/unixnu) | `Python` | ⭐ 2.9k | `+574` | Run iOS and macOS on non-Apple ARM64 hardware through UEFI. |
+| #19 | [**sarpstar/cinecode**](https://git.zoyku.com/zh/repo/sarpstar/cinecode) | `Python` | ⭐ 2.6k | `+571` | Films made with code. Short films, long YouTube videos, ads, explainers and |
+| #20 | [**ruoji6/artex**](https://git.zoyku.com/zh/repo/ruoji6/artex) | `Go` | ⭐ 2.1k | `+560` | Autumn-27/ARTEX 持续维护开源版本 （Internationalized version） |
 
 ---
 
@@ -547,22 +547,22 @@
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | #1 | [**google/it-cert-automation-practice**](https://git.zoyku.com/zh/repo/google/it-cert-automation-practice) | `Other` | ⭐ 1.0k | `—` | google/it-cert-automation-practice open-source repository on GitHub |
 | #2 | [**jlord/patchwork**](https://git.zoyku.com/zh/repo/jlord/patchwork) | `Rich Text Format` | ⭐ 1.2k | `+0` | All the Git-it Workshop completers! |
-| #3 | [**jtleek/datasharing**](https://git.zoyku.com/zh/repo/jtleek/datasharing) | `Other` | ⭐ 6.8k | `+3` | The Leek group guide to data sharing |
-| #4 | [**theodinproject/css-exercises**](https://git.zoyku.com/zh/repo/theodinproject/css-exercises) | `HTML` | ⭐ 2.7k | `+0` | — |
-| #5 | [**smartthingscommunity/smartthingspublic**](https://git.zoyku.com/zh/repo/smartthingscommunity/smartthingspublic) | `Groovy` | ⭐ 2.7k | `+3` | SmartThings open-source DeviceType Handlers and SmartApps code |
+| #3 | [**jtleek/datasharing**](https://git.zoyku.com/zh/repo/jtleek/datasharing) | `Other` | ⭐ 6.8k | `+1` | The Leek group guide to data sharing |
+| #4 | [**theodinproject/css-exercises**](https://git.zoyku.com/zh/repo/theodinproject/css-exercises) | `HTML` | ⭐ 2.7k | `+1` | — |
+| #5 | [**smartthingscommunity/smartthingspublic**](https://git.zoyku.com/zh/repo/smartthingscommunity/smartthingspublic) | `Groovy` | ⭐ 2.7k | `+2` | SmartThings open-source DeviceType Handlers and SmartApps code |
 | #6 | [**leereilly/swot**](https://git.zoyku.com/zh/repo/leereilly/swot) | `Other` | ⭐ 1.2k | `—` | leereilly/swot open-source repository on GitHub |
 | #7 | [**theodinproject/javascript-exercises**](https://git.zoyku.com/zh/repo/theodinproject/javascript-exercises) | `JavaScript` | ⭐ 1.7k | `+0` | — |
 | #8 | [**nightscout/cgm-remote-monitor**](https://git.zoyku.com/zh/repo/nightscout/cgm-remote-monitor) | `JavaScript` | ⭐ 2.9k | `+2` | nightscout web monitor |
 | #9 | [**udacity/frontend-nanodegree-resume**](https://git.zoyku.com/zh/repo/udacity/frontend-nanodegree-resume) | `Other` | ⭐ 1.2k | `—` | udacity/frontend-nanodegree-resume open-source repository on GitHub |
 | #10 | [**udacity/course-collaboration-travel-plans**](https://git.zoyku.com/zh/repo/udacity/course-collaboration-travel-plans) | `CSS` | ⭐ 1.2k | `+0` | — |
-| #11 | [**samqin123/moontv**](https://git.zoyku.com/zh/repo/samqin123/moontv) | `TypeScript` | ⭐ 2.1k | `+13` | — |
-| #12 | [**octocat/spoon-knife**](https://git.zoyku.com/zh/repo/octocat/spoon-knife) | `HTML` | ⭐ 14.2k | `+24` | This repo is for demonstration purposes only. |
-| #13 | [**useinterstellar/interstellar**](https://git.zoyku.com/zh/repo/useinterstellar/interstellar) | `JavaScript` | ⭐ 2.2k | `+10` | Interstellar is a web proxy service offering blazing-fast speeds, a wide va |
+| #11 | [**samqin123/moontv**](https://git.zoyku.com/zh/repo/samqin123/moontv) | `TypeScript` | ⭐ 2.1k | `+14` | — |
+| #12 | [**octocat/spoon-knife**](https://git.zoyku.com/zh/repo/octocat/spoon-knife) | `HTML` | ⭐ 14.2k | `+22` | This repo is for demonstration purposes only. |
+| #13 | [**useinterstellar/interstellar**](https://git.zoyku.com/zh/repo/useinterstellar/interstellar) | `JavaScript` | ⭐ 2.2k | `+4` | Interstellar is a web proxy service offering blazing-fast speeds, a wide va |
 | #14 | [**wukongdaily/dockertarbuilder**](https://git.zoyku.com/zh/repo/wukongdaily/dockertarbuilder) | `Other` | ⭐ 1.8k | `+3` | 它是一个工作流。可快速构建指定架构/平台的docker镜像 |
 | #15 | [**solana-labs/token-list**](https://git.zoyku.com/zh/repo/solana-labs/token-list) | `Other` | ⭐ 1.7k | `—` | solana-labs/token-list open-source repository on GitHub |
 | #16 | [**wakaleo/game-of-life**](https://git.zoyku.com/zh/repo/wakaleo/game-of-life) | `HTML` | ⭐ 2.1k | `+0` | Demo application for the 'Jenkins: The Definitive Guide' book |
-| #17 | [**miro92/uyou-for-youtube**](https://git.zoyku.com/zh/repo/miro92/uyou-for-youtube) | `Other` | ⭐ 2.6k | `+-4` | Enhance Your YouTube Experience |
-| #18 | [**digitalinnovationone/dio-lab-open-source**](https://git.zoyku.com/zh/repo/digitalinnovationone/dio-lab-open-source) | `Jupyter Notebook` | ⭐ 8.7k | `+7` | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Di |
+| #17 | [**miro92/uyou-for-youtube**](https://git.zoyku.com/zh/repo/miro92/uyou-for-youtube) | `Other` | ⭐ 2.6k | `+-3` | Enhance Your YouTube Experience |
+| #18 | [**digitalinnovationone/dio-lab-open-source**](https://git.zoyku.com/zh/repo/digitalinnovationone/dio-lab-open-source) | `Jupyter Notebook` | ⭐ 8.7k | `+5` | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Di |
 | #19 | [**FIRST-Tech-Challenge/FtcRobotController**](https://git.zoyku.com/zh/repo/FIRST-Tech-Challenge/FtcRobotController) | `java` | ⭐ 1.4k | `—` | FIRST-Tech-Challenge/FtcRobotController open-source repository on GitHub |
 | #20 | [**datasciencespecialization/courses**](https://git.zoyku.com/zh/repo/datasciencespecialization/courses) | `HTML` | ⭐ 4.2k | `+1` | Course materials for the Data Science Specialization: https://www.coursera. |
 
@@ -573,26 +573,26 @@
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | Fork总数 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**jtleek/datasharing**](https://git.zoyku.com/zh/repo/jtleek/datasharing) | `Other` | ⭐ 6.8k | `+3` | The Leek group guide to data sharing |
-| #2 | [**octocat/spoon-knife**](https://git.zoyku.com/zh/repo/octocat/spoon-knife) | `HTML` | ⭐ 14.2k | `+24` | This repo is for demonstration purposes only. |
+| #1 | [**jtleek/datasharing**](https://git.zoyku.com/zh/repo/jtleek/datasharing) | `Other` | ⭐ 6.8k | `+1` | The Leek group guide to data sharing |
+| #2 | [**octocat/spoon-knife**](https://git.zoyku.com/zh/repo/octocat/spoon-knife) | `HTML` | ⭐ 14.2k | `+22` | This repo is for demonstration purposes only. |
 | #3 | [**rdpeng/programmingassignment2**](https://git.zoyku.com/zh/repo/rdpeng/programmingassignment2) | `R` | ⭐ 896 | `+0` | Repository for Programming Assignment 2 for R Programming on Coursera |
-| #4 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 463.9k | `+17.5k` | Reverse engineer anything with agents, from app behavior down to native bin |
-| #5 | [**firstcontributions/first-contributions**](https://git.zoyku.com/zh/repo/firstcontributions/first-contributions) | `Other` | ⭐ 56.9k | `+131` | Help beginners to contribute to open source projects |
-| #6 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-185` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
-| #7 | [**theodinproject/css-exercises**](https://git.zoyku.com/zh/repo/theodinproject/css-exercises) | `HTML` | ⭐ 2.7k | `+0` | — |
-| #8 | [**k1tbyte/wand-enhancer**](https://git.zoyku.com/zh/repo/k1tbyte/wand-enhancer) | `C#` | ⭐ 33.7k | `+187` | Advanced UX and interoperability extension for Wand (WeMod) app |
-| #9 | [**pierian-data/complete-python-3-bootcamp**](https://git.zoyku.com/zh/repo/pierian-data/complete-python-3-bootcamp) | `Jupyter Notebook` | ⭐ 29.8k | `+3` | Course Files for Complete Python 3 Bootcamp Course on Udemy |
-| #10 | [**jwasham/coding-interview-university**](https://git.zoyku.com/zh/repo/jwasham/coding-interview-university) | `Other` | ⭐ 364.4k | `+296` | A complete computer science study plan to become a software engineer. |
-| #11 | [**smartthingscommunity/smartthingspublic**](https://git.zoyku.com/zh/repo/smartthingscommunity/smartthingspublic) | `Groovy` | ⭐ 2.7k | `+3` | SmartThings open-source DeviceType Handlers and SmartApps code |
-| #12 | [**openclaw/openclaw**](https://git.zoyku.com/zh/repo/openclaw/openclaw) | `TypeScript` | ⭐ 394.6k | `+349` | The AI that really does things. Any OS. Any Platform. The lobster way. |
-| #13 | [**github/gitignore**](https://git.zoyku.com/zh/repo/github/gitignore) | `Other` | ⭐ 176.3k | `+71` | A collection of useful .gitignore templates |
-| #14 | [**twbs/bootstrap**](https://git.zoyku.com/zh/repo/twbs/bootstrap) | `MDX` | ⭐ 175.1k | `+46` | The most popular HTML, CSS, and JavaScript framework for developing respons |
+| #4 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 464.3k | `+14.9k` | Reverse engineer anything with agents, from app behavior down to native bin |
+| #5 | [**firstcontributions/first-contributions**](https://git.zoyku.com/zh/repo/firstcontributions/first-contributions) | `Other` | ⭐ 56.9k | `+113` | Help beginners to contribute to open source projects |
+| #6 | [**ultraworkers/claw-code**](https://git.zoyku.com/zh/repo/ultraworkers/claw-code) | `Rust` | ⭐ 194.8k | `+-45` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex  |
+| #7 | [**theodinproject/css-exercises**](https://git.zoyku.com/zh/repo/theodinproject/css-exercises) | `HTML` | ⭐ 2.7k | `+1` | — |
+| #8 | [**k1tbyte/wand-enhancer**](https://git.zoyku.com/zh/repo/k1tbyte/wand-enhancer) | `C#` | ⭐ 33.7k | `+119` | Advanced UX and interoperability extension for Wand (WeMod) app |
+| #9 | [**pierian-data/complete-python-3-bootcamp**](https://git.zoyku.com/zh/repo/pierian-data/complete-python-3-bootcamp) | `Jupyter Notebook` | ⭐ 29.8k | `+2` | Course Files for Complete Python 3 Bootcamp Course on Udemy |
+| #10 | [**jwasham/coding-interview-university**](https://git.zoyku.com/zh/repo/jwasham/coding-interview-university) | `Other` | ⭐ 364.5k | `+264` | A complete computer science study plan to become a software engineer. |
+| #11 | [**smartthingscommunity/smartthingspublic**](https://git.zoyku.com/zh/repo/smartthingscommunity/smartthingspublic) | `Groovy` | ⭐ 2.7k | `+2` | SmartThings open-source DeviceType Handlers and SmartApps code |
+| #12 | [**openclaw/openclaw**](https://git.zoyku.com/zh/repo/openclaw/openclaw) | `TypeScript` | ⭐ 394.6k | `+304` | The AI that really does things. Any OS. Any Platform. The lobster way. |
+| #13 | [**github/gitignore**](https://git.zoyku.com/zh/repo/github/gitignore) | `Other` | ⭐ 176.3k | `+-136` | A collection of useful .gitignore templates |
+| #14 | [**twbs/bootstrap**](https://git.zoyku.com/zh/repo/twbs/bootstrap) | `MDX` | ⭐ 175.1k | `+36` | The most popular HTML, CSS, and JavaScript framework for developing respons |
 | #15 | [**tensorflow/tensorflow**](https://git.zoyku.com/zh/repo/tensorflow/tensorflow) | `C++` | ⭐ 201.6k | `+173` | An Open Source Machine Learning Framework for Everyone |
 | #16 | [**nightscout/cgm-remote-monitor**](https://git.zoyku.com/zh/repo/nightscout/cgm-remote-monitor) | `JavaScript` | ⭐ 2.9k | `+2` | nightscout web monitor |
-| #17 | [**github/docs**](https://git.zoyku.com/zh/repo/github/docs) | `TypeScript` | ⭐ 21.5k | `+68` | The open-source repo for docs.github.com |
-| #18 | [**ebookfoundation/free-programming-books**](https://git.zoyku.com/zh/repo/ebookfoundation/free-programming-books) | `Python` | ⭐ 401.7k | `+319` | :books: Freely available programming books |
-| #19 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+902` | Linux kernel source tree |
-| #20 | [**microsoft/generative-ai-for-beginners**](https://git.zoyku.com/zh/repo/microsoft/generative-ai-for-beginners) | `Jupyter Notebook` | ⭐ 123.7k | `+433` | 21 Lessons, Get Started Building with Generative AI |
+| #17 | [**github/docs**](https://git.zoyku.com/zh/repo/github/docs) | `TypeScript` | ⭐ 21.5k | `+58` | The open-source repo for docs.github.com |
+| #18 | [**ebookfoundation/free-programming-books**](https://git.zoyku.com/zh/repo/ebookfoundation/free-programming-books) | `Python` | ⭐ 401.7k | `+262` | :books: Freely available programming books |
+| #19 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+799` | Linux kernel source tree |
+| #20 | [**microsoft/generative-ai-for-beginners**](https://git.zoyku.com/zh/repo/microsoft/generative-ai-for-beginners) | `Jupyter Notebook` | ⭐ 123.7k | `+387` | 21 Lessons, Get Started Building with Generative AI |
 
 ---
 
@@ -630,79 +630,79 @@
 ### 🔹 JAVASCRIPT
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**ebony-vinyl/dsh-our-free-model**](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model) | `JavaScript` | ⭐ 77.2k | `+9.9k` | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模 |
-| #2 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.2k | `+4.6k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
-| #3 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.1k | `+4.5k` | Makes your AI agent think like the laziest senior dev in the room. The best |
-| #4 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 116.8k | `+4.4k` | Agent skills that give coding agents taste: art direction, reference images |
-| #5 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.3k | `+3.8k` | Production-grade engineering skills for AI coding agents. |
+| #1 | [**ebony-vinyl/dsh-our-free-model**](https://git.zoyku.com/zh/repo/ebony-vinyl/dsh-our-free-model) | `JavaScript` | ⭐ 77.5k | `+8.8k` | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模 |
+| #2 | [**leonxlnx/taste-skill**](https://git.zoyku.com/zh/repo/leonxlnx/taste-skill) | `JavaScript` | ⭐ 117.0k | `+4.0k` | Agent skills that give coding agents taste: art direction, reference images |
+| #3 | [**dietrichgebert/ponytail**](https://git.zoyku.com/zh/repo/dietrichgebert/ponytail) | `JavaScript` | ⭐ 192.2k | `+3.9k` | Makes your AI agent think like the laziest senior dev in the room. The best |
+| #4 | [**heydamir/unslop**](https://git.zoyku.com/zh/repo/heydamir/unslop) | `JavaScript` | ⭐ 17.3k | `+3.7k` | A Claude skill that turns vibecoded, AI-looking UI into a designed interfac |
+| #5 | [**addyosmani/agent-skills**](https://git.zoyku.com/zh/repo/addyosmani/agent-skills) | `JavaScript` | ⭐ 118.4k | `+3.4k` | Production-grade engineering skills for AI coding agents. |
 
 ### 🔹 TYPESCRIPT
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 463.9k | `+17.5k` | Reverse engineer anything with agents, from app behavior down to native bin |
-| #2 | [**meta/astryx**](https://git.zoyku.com/zh/repo/meta/astryx) | `TypeScript` | ⭐ 29.5k | `+10.1k` | An open source design system that's fully customizable and agent ready |
-| #3 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.7k | `+6.4k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
-| #4 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 7.9k | `+5.7k` | Keep your coding agent up to date with the latest web best practices |
-| #5 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.3k | `+5.0k` | DeepSeek Harness: Everything is a Plugin. |
+| #1 | [**morluto/rea**](https://git.zoyku.com/zh/repo/morluto/rea) | `TypeScript` | ⭐ 464.3k | `+14.9k` | Reverse engineer anything with agents, from app behavior down to native bin |
+| #2 | [**meta/astryx**](https://git.zoyku.com/zh/repo/meta/astryx) | `TypeScript` | ⭐ 29.7k | `+7.3k` | An open source design system that's fully customizable and agent ready |
+| #3 | [**googlechrome/modern-web-guidance-src**](https://git.zoyku.com/zh/repo/googlechrome/modern-web-guidance-src) | `TypeScript` | ⭐ 8.0k | `+6.5k` | Keep your coding agent up to date with the latest web best practices |
+| #4 | [**stablyai/orca**](https://git.zoyku.com/zh/repo/stablyai/orca) | `TypeScript` | ⭐ 126.9k | `+5.6k` | Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with y |
+| #5 | [**deepseek-ai/deepseek-harness**](https://git.zoyku.com/zh/repo/deepseek-ai/deepseek-harness) | `TypeScript` | ⭐ 282.4k | `+4.3k` | DeepSeek Harness: Everything is a Plugin. |
 
 ### 🔹 PYTHON
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.1k | `+6.4k` | Hunt down social media accounts by username across social networks |
-| #2 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 111.9k | `+5.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
-| #3 | [**zhulinsen/daily_stock_analysis**](https://git.zoyku.com/zh/repo/zhulinsen/daily_stock_analysis) | `Python` | ⭐ 72.8k | `+4.1k` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market  |
-| #4 | [**google/elephant-goldfish-model**](https://git.zoyku.com/zh/repo/google/elephant-goldfish-model) | `Python` | ⭐ 20.3k | `+4.1k` | Open-source plugin for designing and reviewing software with agents |
-| #5 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.0k | `+4.0k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
+| #1 | [**debpalash/voicestudio**](https://git.zoyku.com/zh/repo/debpalash/voicestudio) | `Python` | ⭐ 112.0k | `+4.9k` | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice  |
+| #2 | [**sherlock-project/sherlock**](https://git.zoyku.com/zh/repo/sherlock-project/sherlock) | `Python` | ⭐ 113.2k | `+4.5k` | Hunt down social media accounts by username across social networks |
+| #3 | [**graphify-labs/graphify**](https://git.zoyku.com/zh/repo/graphify-labs/graphify) | `Python` | ⭐ 149.1k | `+3.6k` | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a qu |
+| #4 | [**google/elephant-goldfish-model**](https://git.zoyku.com/zh/repo/google/elephant-goldfish-model) | `Python` | ⭐ 20.4k | `+3.3k` | Open-source plugin for designing and reviewing software with agents |
+| #5 | [**zhulinsen/daily_stock_analysis**](https://git.zoyku.com/zh/repo/zhulinsen/daily_stock_analysis) | `Python` | ⭐ 72.8k | `+3.3k` | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market  |
 
 ### 🔹 GO
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.5k | `+4.5k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
-| #2 | [**alibaba/open-code-review**](https://git.zoyku.com/zh/repo/alibaba/open-code-review) | `Go` | ⭐ 52.9k | `+3.2k` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architect |
-| #3 | [**juliusbrussee/caveman**](https://git.zoyku.com/zh/repo/juliusbrussee/caveman) | `Go` | ⭐ 120.7k | `+2.1k` | why use many token when few token do trick. Viral skill + proxy for coding  |
+| #1 | [**yetone/magpie**](https://git.zoyku.com/zh/repo/yetone/magpie) | `Go` | ⭐ 37.6k | `+3.8k` | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, fro |
+| #2 | [**alibaba/open-code-review**](https://git.zoyku.com/zh/repo/alibaba/open-code-review) | `Go` | ⭐ 53.0k | `+3.2k` | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architect |
+| #3 | [**juliusbrussee/caveman**](https://git.zoyku.com/zh/repo/juliusbrussee/caveman) | `Go` | ⭐ 120.8k | `+1.9k` | why use many token when few token do trick. Viral skill + proxy for coding  |
 | #4 | [**lee-xeo/claude-cage**](https://git.zoyku.com/zh/repo/lee-xeo/claude-cage) | `Go` | ⭐ 2.5k | `+1.4k` | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
-| #5 | [**avelino/awesome-go**](https://git.zoyku.com/zh/repo/avelino/awesome-go) | `Go` | ⭐ 194.3k | `+1.3k` | A curated list of awesome Go frameworks, libraries and software |
+| #5 | [**avelino/awesome-go**](https://git.zoyku.com/zh/repo/avelino/awesome-go) | `Go` | ⭐ 194.3k | `+1.2k` | A curated list of awesome Go frameworks, libraries and software |
 
 ### 🔹 RUST
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**storytold/craft-anything**](https://git.zoyku.com/zh/repo/storytold/craft-anything) | `Rust` | ⭐ 34.7k | `+10.4k` | Craft Anything: understand how any software works, and craft your own. |
-| #2 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.1k | `+8.1k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
-| #3 | [**libracoder/kiri**](https://git.zoyku.com/zh/repo/libracoder/kiri) | `Rust` | ⭐ 8.7k | `+7.3k` | A small, fast container runtime for macOS, Windows and Linux with free Ngro |
-| #4 | [**minireel/hghub**](https://git.zoyku.com/zh/repo/minireel/hghub) | `Rust` | ⭐ 9.5k | `+6.7k` | Plug-in media player |
-| #5 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 35.9k | `+4.4k` | The headless browser for AI agents and web scraping |
+| #1 | [**storytold/craft-anything**](https://git.zoyku.com/zh/repo/storytold/craft-anything) | `Rust` | ⭐ 34.9k | `+8.9k` | Craft Anything: understand how any software works, and craft your own. |
+| #2 | [**anefzaoui/misterdownloadmanager**](https://git.zoyku.com/zh/repo/anefzaoui/misterdownloadmanager) | `Rust` | ⭐ 11.2k | `+8.2k` | misterdownloadmanager: The ultimate open-source, clean-room download manage |
+| #3 | [**libracoder/kiri**](https://git.zoyku.com/zh/repo/libracoder/kiri) | `Rust` | ⭐ 9.1k | `+7.6k` | A small, fast container runtime for macOS, Windows and Linux with free Ngro |
+| #4 | [**aws/aws-emulator**](https://git.zoyku.com/zh/repo/aws/aws-emulator) | `Rust` | ⭐ 8.9k | `+6.8k` | AWS Emulator is a local emulator of the AWS APIs. |
+| #5 | [**h4ckf0r0day/obscura**](https://git.zoyku.com/zh/repo/h4ckf0r0day/obscura) | `Rust` | ⭐ 36.0k | `+3.9k` | The headless browser for AI agents and web scraping |
 
 ### 🔹 JAVA
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**nationalsecurityagency/ghidra**](https://git.zoyku.com/zh/repo/nationalsecurityagency/ghidra) | `Java` | ⭐ 100.3k | `+1.3k` | Ghidra is a software reverse engineering (SRE) framework |
-| #2 | [**floci-io/floci**](https://git.zoyku.com/zh/repo/floci-io/floci) | `Java` | ⭐ 31.8k | `+646` | Light, fluffy, and always free - The AWS Local Emulator alternative |
-| #3 | [**termux/termux-app**](https://git.zoyku.com/zh/repo/termux/termux-app) | `Java` | ⭐ 65.0k | `+517` | Termux - a terminal emulator application for Android OS extendible by varie |
-| #4 | [**thealgorithms/java**](https://git.zoyku.com/zh/repo/thealgorithms/java) | `Java` | ⭐ 67.3k | `+479` | All Algorithms implemented in Java |
-| #5 | [**ashishps1/awesome-system-design-resources**](https://git.zoyku.com/zh/repo/ashishps1/awesome-system-design-resources) | `Java` | ⭐ 43.4k | `+264` | Learn System Design concepts and prepare for interviews using free resource |
+| #1 | [**nationalsecurityagency/ghidra**](https://git.zoyku.com/zh/repo/nationalsecurityagency/ghidra) | `Java` | ⭐ 100.4k | `+1.1k` | Ghidra is a software reverse engineering (SRE) framework |
+| #2 | [**floci-io/floci**](https://git.zoyku.com/zh/repo/floci-io/floci) | `Java` | ⭐ 31.9k | `+581` | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| #3 | [**termux/termux-app**](https://git.zoyku.com/zh/repo/termux/termux-app) | `Java` | ⭐ 65.0k | `+460` | Termux - a terminal emulator application for Android OS extendible by varie |
+| #4 | [**thealgorithms/java**](https://git.zoyku.com/zh/repo/thealgorithms/java) | `Java` | ⭐ 67.3k | `+442` | All Algorithms implemented in Java |
+| #5 | [**ashishps1/awesome-system-design-resources**](https://git.zoyku.com/zh/repo/ashishps1/awesome-system-design-resources) | `Java` | ⭐ 43.4k | `+258` | Learn System Design concepts and prepare for interviews using free resource |
 
 ### 🔹 C
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**justvugg/colibri**](https://git.zoyku.com/zh/repo/justvugg/colibri) | `C` | ⭐ 51.6k | `+2.2k` | A hierarchical inference engine for frontier MoE models: hot experts on the |
-| #2 | [**zagitta/gpu-unlock**](https://git.zoyku.com/zh/repo/zagitta/gpu-unlock) | `C` | ⭐ 20.0k | `+1.6k` | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards |
-| #3 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+902` | Linux kernel source tree |
-| #4 | [**leviidev/henge**](https://git.zoyku.com/zh/repo/leviidev/henge) | `C` | ⭐ 2.4k | `+823` | Emulate macOS on iOS and iPadOS |
-| #5 | [**tangerineturtle1/nx2navi**](https://git.zoyku.com/zh/repo/tangerineturtle1/nx2navi) | `C` | ⭐ 3.0k | `+801` | — |
+| #1 | [**justvugg/colibri**](https://git.zoyku.com/zh/repo/justvugg/colibri) | `C` | ⭐ 51.6k | `+1.9k` | A hierarchical inference engine for frontier MoE models: hot experts on the |
+| #2 | [**zagitta/gpu-unlock**](https://git.zoyku.com/zh/repo/zagitta/gpu-unlock) | `C` | ⭐ 20.0k | `+1.5k` | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards |
+| #3 | [**torvalds/linux**](https://git.zoyku.com/zh/repo/torvalds/linux) | `C` | ⭐ 255.9k | `+799` | Linux kernel source tree |
+| #4 | [**fareedkhan-dev/kimi-k3-in-c**](https://git.zoyku.com/zh/repo/fareedkhan-dev/kimi-k3-in-c) | `C` | ⭐ 12.2k | `+618` | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 |
+| #5 | [**leviidev/henge**](https://git.zoyku.com/zh/repo/leviidev/henge) | `C` | ⭐ 2.4k | `+538` | Emulate macOS on iOS and iPadOS |
 
 ### 🔹 C++
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | #1 | [**notrexed/hookshot**](https://git.zoyku.com/zh/repo/notrexed/hookshot) | `C++` | ⭐ 9.0k | `+6.3k` | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Swi |
-| #2 | [**edge0-ai/edge0**](https://git.zoyku.com/zh/repo/edge0-ai/edge0) | `C++` | ⭐ 11.9k | `+2.8k` | Device-native foundation models: 145B on a laptop, 35B on a phone. Latent M |
-| #3 | [**niko1221/strata**](https://git.zoyku.com/zh/repo/niko1221/strata) | `C++` | ⭐ 44.9k | `+2.5k` | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows  |
-| #4 | [**boykopovar/anyps5**](https://git.zoyku.com/zh/repo/boykopovar/anyps5) | `C++` | ⭐ 54.5k | `+1.9k` | Tool for automatic PS5 executables porting to Linux and Windows |
-| #5 | [**likely7/veyra-nrvideo**](https://git.zoyku.com/zh/repo/likely7/veyra-nrvideo) | `C++` | ⭐ 3.0k | `+1.9k` | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and  |
+| #2 | [**edge0-ai/edge0**](https://git.zoyku.com/zh/repo/edge0-ai/edge0) | `C++` | ⭐ 12.0k | `+2.8k` | Device-native foundation models: 145B on a laptop, 35B on a phone. Latent M |
+| #3 | [**niko1221/strata**](https://git.zoyku.com/zh/repo/niko1221/strata) | `C++` | ⭐ 45.0k | `+2.1k` | Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows  |
+| #4 | [**likely7/veyra-nrvideo**](https://git.zoyku.com/zh/repo/likely7/veyra-nrvideo) | `C++` | ⭐ 3.0k | `+1.9k` | Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and  |
+| #5 | [**boykopovar/anyps5**](https://git.zoyku.com/zh/repo/boykopovar/anyps5) | `C++` | ⭐ 54.6k | `+1.6k` | Tool for automatic PS5 executables porting to Linux and Windows |
 
 ---
 
 ## 📂 历史快照目录 (Archive History)
-- 📅 [浏览当日纯净快照: `2026-11-16.md` (点击直达)](./daily/2026/2026-11/2026-11-16.md)
+- 📅 [浏览当日纯净快照: `2026-11-17.md` (点击直达)](./daily/2026/2026-11/2026-11-17.md)
 - 📊 [浏览本周快照: `2026-W47.md` (点击直达)](./weekly/2026/2026-W47.md)
 - 🌐 [更多 34 张分榜与历史时间轴 (访问官方站点)](https://git.zoyku.com/zh/history)
 
