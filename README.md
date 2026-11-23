@@ -2,7 +2,7 @@
 
 > ⚡️ **全网开源项目实时火线榜 · 每日/每周/每月点火爆发与黑马排位权威归档**。
 > 🌐 实时在线交互看板（支持 34 张多维榜单与 16 种国际语言）：**[https://git.zoyku.com](https://git.zoyku.com)**
-> 📅 **最新归档日期**：`2026-10-31` · 更新时间：`2026-10-31 19:00:00 UTC`
+> 📅 **最新归档日期**：`2026-10-31` · 更新时间：`2026-10-31 12:00:00 UTC`
 
 [![GitHub Hot Daily](https://img.shields.io/static/v1?label=ZOYKU&message=Hot%20Board&color=blue&style=for-the-badge&logo=github)](https://git.zoyku.com)
 [![Weekly Report](https://img.shields.io/static/v1?label=Weekly%20Surge&message=2026-W44&color=orange&style=for-the-badge)](./weekly/2026/2026-W44.md)
@@ -73,7 +73,7 @@
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/indie/dark-horse) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=indie%2Fdark-horse) · [💻 GitHub 源码](https://github.com/indie/dark-horse)
 
 ### 🥈 #2 [org-0/project-0](https://git.zoyku.com/zh/repo/org-0/project-0)
-> Partial fixture
+> High performance javascript framework
 
 <a href="https://git.zoyku.com/zh/repo/org-0/project-0" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -82,7 +82,7 @@
   </picture>
 </a>
 
-- **主要语言**: `javascript` · **总星标**: `11.1k (11,101 Stars)` · **近期增长**: `+1.1k stars`
+- **主要语言**: `javascript` · **总星标**: `10.8k (10,800 Stars)` · **近期增长**: `+800 stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/org-0/project-0) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=org-0%2Fproject-0) · [💻 GitHub 源码](https://github.com/org-0/project-0)
 
 ### 🥉 #3 [org-1/project-1](https://git.zoyku.com/zh/repo/org-1/project-1)
@@ -150,7 +150,7 @@
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/indie/dark-horse) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=indie%2Fdark-horse) · [💻 GitHub 源码](https://github.com/indie/dark-horse)
 
 ### 🥈 #2 [org-0/project-0](https://git.zoyku.com/zh/repo/org-0/project-0)
-> Partial fixture
+> High performance javascript framework
 
 <a href="https://git.zoyku.com/zh/repo/org-0/project-0" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -159,7 +159,7 @@
   </picture>
 </a>
 
-- **主要语言**: `javascript` · **总星标**: `11.1k (11,101 Stars)` · **近期增长**: `+1.1k stars`
+- **主要语言**: `javascript` · **总星标**: `10.8k (10,800 Stars)` · **近期增长**: `+800 stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/org-0/project-0) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=org-0%2Fproject-0) · [💻 GitHub 源码](https://github.com/org-0/project-0)
 
 ### 🥉 #3 [org-1/project-1](https://git.zoyku.com/zh/repo/org-1/project-1)
@@ -348,29 +348,29 @@
 
 | 排名 | 开源项目 | 语言 | 累计 Stars | 24h动量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #4 | [**opa334/Dopamine**](https://git.zoyku.com/zh/repo/opa334/Dopamine) | `c` | ⭐ 7.1k | `+104` | opa334/Dopamine open-source repository on GitHub |
-| #5 | [**official-stockfish/Stockfish**](https://git.zoyku.com/zh/repo/official-stockfish/Stockfish) | `c++` | ⭐ 17.2k | `+103` | official-stockfish/Stockfish open-source repository on GitHub |
+| #4 | [**opa334/Dopamine**](https://git.zoyku.com/zh/repo/opa334/dopamine) | `c` | ⭐ 7.1k | `+104` | opa334/Dopamine open-source repository on GitHub |
+| #5 | [**official-stockfish/Stockfish**](https://git.zoyku.com/zh/repo/official-stockfish/stockfish) | `c++` | ⭐ 17.2k | `+103` | official-stockfish/Stockfish open-source repository on GitHub |
 | #6 | [**williamfiset/algorithms**](https://git.zoyku.com/zh/repo/williamfiset/algorithms) | `java` | ⭐ 18.9k | `+102` | williamfiset/algorithms open-source repository on GitHub |
 | #7 | [**henrypp/memreduct**](https://git.zoyku.com/zh/repo/henrypp/memreduct) | `c` | ⭐ 11.0k | `+101` | henrypp/memreduct open-source repository on GitHub |
-| #8 | [**clockworklabs/SpacetimeDB**](https://git.zoyku.com/zh/repo/clockworklabs/SpacetimeDB) | `rust` | ⭐ 25.4k | `+98` | clockworklabs/SpacetimeDB open-source repository on GitHub |
+| #8 | [**clockworklabs/SpacetimeDB**](https://git.zoyku.com/zh/repo/clockworklabs/spacetimedb) | `rust` | ⭐ 25.4k | `+98` | clockworklabs/SpacetimeDB open-source repository on GitHub |
 | #9 | [**agentscope-ai/agentscope-java**](https://git.zoyku.com/zh/repo/agentscope-ai/agentscope-java) | `java` | ⭐ 6.2k | `+96` | agentscope-ai/agentscope-java open-source repository on GitHub |
-| #10 | [**FiloSottile/age**](https://git.zoyku.com/zh/repo/FiloSottile/age) | `go` | ⭐ 24.1k | `+95` | FiloSottile/age open-source repository on GitHub |
+| #10 | [**FiloSottile/age**](https://git.zoyku.com/zh/repo/filosottile/age) | `go` | ⭐ 24.1k | `+95` | FiloSottile/age open-source repository on GitHub |
 | #11 | [**sqlite/sqlite**](https://git.zoyku.com/zh/repo/sqlite/sqlite) | `c` | ⭐ 10.9k | `+95` | sqlite/sqlite open-source repository on GitHub |
-| #12 | [**HIllya51/LunaTranslator**](https://git.zoyku.com/zh/repo/HIllya51/LunaTranslator) | `c++` | ⭐ 13.9k | `+94` | HIllya51/LunaTranslator open-source repository on GitHub |
-| #13 | [**geo-tp/ESP32-Bit-Pirate**](https://git.zoyku.com/zh/repo/geo-tp/ESP32-Bit-Pirate) | `c++` | ⭐ 6.3k | `+94` | geo-tp/ESP32-Bit-Pirate open-source repository on GitHub |
+| #12 | [**HIllya51/LunaTranslator**](https://git.zoyku.com/zh/repo/hillya51/lunatranslator) | `c++` | ⭐ 13.9k | `+94` | HIllya51/LunaTranslator open-source repository on GitHub |
+| #13 | [**geo-tp/ESP32-Bit-Pirate**](https://git.zoyku.com/zh/repo/geo-tp/esp32-bit-pirate) | `c++` | ⭐ 6.3k | `+94` | geo-tp/ESP32-Bit-Pirate open-source repository on GitHub |
 | #14 | [**opentofu/opentofu**](https://git.zoyku.com/zh/repo/opentofu/opentofu) | `go` | ⭐ 30.7k | `+93` | opentofu/opentofu open-source repository on GitHub |
-| #15 | [**AbdurazaaqMohammed/MP-Manager**](https://git.zoyku.com/zh/repo/AbdurazaaqMohammed/MP-Manager) | `java` | ⭐ 412 | `+91` | AbdurazaaqMohammed/MP-Manager open-source repository on GitHub |
+| #15 | [**AbdurazaaqMohammed/MP-Manager**](https://git.zoyku.com/zh/repo/abdurazaaqmohammed/mp-manager) | `java` | ⭐ 412 | `+91` | AbdurazaaqMohammed/MP-Manager open-source repository on GitHub |
 | #16 | [**charmbracelet/glow**](https://git.zoyku.com/zh/repo/charmbracelet/glow) | `go` | ⭐ 27.9k | `+90` | charmbracelet/glow open-source repository on GitHub |
-| #17 | [**veracrypt/VeraCrypt**](https://git.zoyku.com/zh/repo/veracrypt/VeraCrypt) | `c` | ⭐ 12.0k | `+88` | veracrypt/VeraCrypt open-source repository on GitHub |
+| #17 | [**veracrypt/VeraCrypt**](https://git.zoyku.com/zh/repo/veracrypt/veracrypt) | `c` | ⭐ 12.0k | `+88` | veracrypt/VeraCrypt open-source repository on GitHub |
 | #18 | [**koharu-rs/koharu**](https://git.zoyku.com/zh/repo/koharu-rs/koharu) | `rust` | ⭐ 6.5k | `+87` | koharu-rs/koharu open-source repository on GitHub |
-| #19 | [**EpicGames/raddebugger**](https://git.zoyku.com/zh/repo/EpicGames/raddebugger) | `c` | ⭐ 8.7k | `+85` | EpicGames/raddebugger open-source repository on GitHub |
+| #19 | [**EpicGames/raddebugger**](https://git.zoyku.com/zh/repo/epicgames/raddebugger) | `c` | ⭐ 8.7k | `+85` | EpicGames/raddebugger open-source repository on GitHub |
 | #20 | [**feder-cr/invisible_dots**](https://git.zoyku.com/zh/repo/feder-cr/invisible_dots) | `typescript` | ⭐ 32.3k | `+84` | feder-cr/invisible_dots open-source repository on GitHub |
 | #21 | [**twpayne/chezmoi**](https://git.zoyku.com/zh/repo/twpayne/chezmoi) | `go` | ⭐ 22.1k | `+84` | twpayne/chezmoi open-source repository on GitHub |
 | #22 | [**voidzero-dev/vite-plus**](https://git.zoyku.com/zh/repo/voidzero-dev/vite-plus) | `rust` | ⭐ 6.5k | `+84` | voidzero-dev/vite-plus open-source repository on GitHub |
 | #23 | [**ast-grep/ast-grep**](https://git.zoyku.com/zh/repo/ast-grep/ast-grep) | `rust` | ⭐ 16.4k | `+83` | ast-grep/ast-grep open-source repository on GitHub |
-| #24 | [**ArduPilot/ardupilot**](https://git.zoyku.com/zh/repo/ArduPilot/ardupilot) | `c++` | ⭐ 16.3k | `+83` | ArduPilot/ardupilot open-source repository on GitHub |
-| #25 | [**microg/GmsCore**](https://git.zoyku.com/zh/repo/microg/GmsCore) | `java` | ⭐ 15.1k | `+83` | microg/GmsCore open-source repository on GitHub |
-| #26 | [**NixOS/nixpkgs**](https://git.zoyku.com/zh/repo/NixOS/nixpkgs) | `Other` | ⭐ 26.7k | `+82` | NixOS/nixpkgs open-source repository on GitHub |
+| #24 | [**ArduPilot/ardupilot**](https://git.zoyku.com/zh/repo/ardupilot/ardupilot) | `c++` | ⭐ 16.3k | `+83` | ArduPilot/ardupilot open-source repository on GitHub |
+| #25 | [**microg/GmsCore**](https://git.zoyku.com/zh/repo/microg/gmscore) | `java` | ⭐ 15.1k | `+83` | microg/GmsCore open-source repository on GitHub |
+| #26 | [**NixOS/nixpkgs**](https://git.zoyku.com/zh/repo/nixos/nixpkgs) | `Other` | ⭐ 26.7k | `+82` | NixOS/nixpkgs open-source repository on GitHub |
 | #27 | [**juice-shop/juice-shop**](https://git.zoyku.com/zh/repo/juice-shop/juice-shop) | `Other` | ⭐ 14.3k | `+81` | juice-shop/juice-shop open-source repository on GitHub |
 | #28 | [**amnezia-vpn/amnezia-client**](https://git.zoyku.com/zh/repo/amnezia-vpn/amnezia-client) | `c++` | ⭐ 15.6k | `+80` | amnezia-vpn/amnezia-client open-source repository on GitHub |
 | #29 | [**oxc-project/oxc**](https://git.zoyku.com/zh/repo/oxc-project/oxc) | `rust` | ⭐ 23.3k | `+79` | oxc-project/oxc open-source repository on GitHub |
@@ -395,7 +395,7 @@
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/indie/dark-horse) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=indie%2Fdark-horse) · [💻 GitHub 源码](https://github.com/indie/dark-horse)
 
 ### 🥈 #2 [org-0/project-0](https://git.zoyku.com/zh/repo/org-0/project-0)
-> Partial fixture
+> High performance javascript framework
 
 <a href="https://git.zoyku.com/zh/repo/org-0/project-0" target="_blank" rel="noopener noreferrer">
   <picture>
@@ -404,7 +404,7 @@
   </picture>
 </a>
 
-- **主要语言**: `javascript` · **总星标**: `11.1k (11,101 Stars)` · **近期增长**: `+1.1k stars`
+- **主要语言**: `javascript` · **总星标**: `10.8k (10,800 Stars)` · **近期增长**: `+800 stars`
 - **火线榜档案**: [📊 战力分析与雷达图](https://git.zoyku.com/zh/repo/org-0/project-0) · [⚔️ 竞技场对决](https://git.zoyku.com/zh/compare?repos=org-0%2Fproject-0) · [💻 GitHub 源码](https://github.com/org-0/project-0)
 
 ### 🥉 #3 [org-1/project-1](https://git.zoyku.com/zh/repo/org-1/project-1)
@@ -465,19 +465,19 @@
 | 排名 | 开源项目 | 语言 | 累计 Stars | 历史星标 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | #1 | [**dorianborian/sesame-robot**](https://git.zoyku.com/zh/repo/dorianborian/sesame-robot) | `c` | ⭐ 4.9k | `+78` | dorianborian/sesame-robot open-source repository on GitHub |
-| #2 | [**HarbourMasters/Shipwright**](https://git.zoyku.com/zh/repo/HarbourMasters/Shipwright) | `c` | ⭐ 5.8k | `+67` | HarbourMasters/Shipwright open-source repository on GitHub |
-| #3 | [**LSPosed/ZygiskNext**](https://git.zoyku.com/zh/repo/LSPosed/ZygiskNext) | `Other` | ⭐ 997 | `+45` | LSPosed/ZygiskNext open-source repository on GitHub |
-| #4 | [**dayanch96/YTLite**](https://git.zoyku.com/zh/repo/dayanch96/YTLite) | `Other` | ⭐ 5.6k | `+29` | dayanch96/YTLite open-source repository on GitHub |
-| #5 | [**UseInterstellar/Interstellar**](https://git.zoyku.com/zh/repo/UseInterstellar/Interstellar) | `Other` | ⭐ 2.2k | `+7` | UseInterstellar/Interstellar open-source repository on GitHub |
+| #2 | [**HarbourMasters/Shipwright**](https://git.zoyku.com/zh/repo/harbourmasters/shipwright) | `c` | ⭐ 5.8k | `+67` | HarbourMasters/Shipwright open-source repository on GitHub |
+| #3 | [**LSPosed/ZygiskNext**](https://git.zoyku.com/zh/repo/lsposed/zygisknext) | `Other` | ⭐ 997 | `+45` | LSPosed/ZygiskNext open-source repository on GitHub |
+| #4 | [**dayanch96/YTLite**](https://git.zoyku.com/zh/repo/dayanch96/ytlite) | `Other` | ⭐ 5.6k | `+29` | dayanch96/YTLite open-source repository on GitHub |
+| #5 | [**UseInterstellar/Interstellar**](https://git.zoyku.com/zh/repo/useinterstellar/interstellar) | `Other` | ⭐ 2.2k | `+7` | UseInterstellar/Interstellar open-source repository on GitHub |
 | #6 | [**apple/device-management**](https://git.zoyku.com/zh/repo/apple/device-management) | `Other` | ⭐ 999 | `+3` | apple/device-management open-source repository on GitHub |
 | #7 | [**xiaotianfotos/homerail**](https://git.zoyku.com/zh/repo/xiaotianfotos/homerail) | `Other` | ⭐ 999 | `+3` | xiaotianfotos/homerail open-source repository on GitHub |
 | #8 | [**ankane/ruby-polars**](https://git.zoyku.com/zh/repo/ankane/ruby-polars) | `Other` | ⭐ 999 | `+2` | ankane/ruby-polars open-source repository on GitHub |
-| #9 | [**MonoMod/MonoMod**](https://git.zoyku.com/zh/repo/MonoMod/MonoMod) | `Other` | ⭐ 999 | `+1` | MonoMod/MonoMod open-source repository on GitHub |
+| #9 | [**MonoMod/MonoMod**](https://git.zoyku.com/zh/repo/monomod/monomod) | `Other` | ⭐ 999 | `+1` | MonoMod/MonoMod open-source repository on GitHub |
 | #10 | [**supabase/edge-runtime**](https://git.zoyku.com/zh/repo/supabase/edge-runtime) | `Other` | ⭐ 999 | `+1` | supabase/edge-runtime open-source repository on GitHub |
 | #11 | [**sylabs/singularity**](https://git.zoyku.com/zh/repo/sylabs/singularity) | `Other` | ⭐ 998 | `+1` | sylabs/singularity open-source repository on GitHub |
 | #12 | [**zero-to-mastery/javascript20-projects**](https://git.zoyku.com/zh/repo/zero-to-mastery/javascript20-projects) | `Other` | ⭐ 998 | `+1` | zero-to-mastery/javascript20-projects open-source repository on GitHub |
 | #13 | [**reactjs/zh-hans.react.dev**](https://git.zoyku.com/zh/repo/reactjs/zh-hans.react.dev) | `Other` | ⭐ 998 | `+1` | reactjs/zh-hans.react.dev open-source repository on GitHub |
-| #14 | [**Denrox/nestjs-microservices-example**](https://git.zoyku.com/zh/repo/Denrox/nestjs-microservices-example) | `Other` | ⭐ 997 | `+1` | Denrox/nestjs-microservices-example open-source repository on GitHub |
+| #14 | [**Denrox/nestjs-microservices-example**](https://git.zoyku.com/zh/repo/denrox/nestjs-microservices-example) | `Other` | ⭐ 997 | `+1` | Denrox/nestjs-microservices-example open-source repository on GitHub |
 
 ---
 
@@ -498,13 +498,13 @@
 | #10 | [**udacity/course-collaboration-travel-plans**](https://git.zoyku.com/zh/repo/udacity/course-collaboration-travel-plans) | `Other` | ⭐ 1.2k | `—` | udacity/course-collaboration-travel-plans open-source repository on GitHub |
 | #11 | [**samqin123/moontv**](https://git.zoyku.com/zh/repo/samqin123/moontv) | `TypeScript` | ⭐ 2.1k | `—` | — |
 | #12 | [**octocat/spoon-knife**](https://git.zoyku.com/zh/repo/octocat/spoon-knife) | `HTML` | ⭐ 14.2k | `—` | This repo is for demonstration purposes only. |
-| #13 | [**UseInterstellar/Interstellar**](https://git.zoyku.com/zh/repo/UseInterstellar/Interstellar) | `Other` | ⭐ 2.2k | `—` | UseInterstellar/Interstellar open-source repository on GitHub |
-| #14 | [**wukongdaily/DockerTarBuilder**](https://git.zoyku.com/zh/repo/wukongdaily/DockerTarBuilder) | `Other` | ⭐ 1.8k | `—` | wukongdaily/DockerTarBuilder open-source repository on GitHub |
+| #13 | [**UseInterstellar/Interstellar**](https://git.zoyku.com/zh/repo/useinterstellar/interstellar) | `Other` | ⭐ 2.2k | `—` | UseInterstellar/Interstellar open-source repository on GitHub |
+| #14 | [**wukongdaily/DockerTarBuilder**](https://git.zoyku.com/zh/repo/wukongdaily/dockertarbuilder) | `Other` | ⭐ 1.8k | `—` | wukongdaily/DockerTarBuilder open-source repository on GitHub |
 | #15 | [**solana-labs/token-list**](https://git.zoyku.com/zh/repo/solana-labs/token-list) | `Other` | ⭐ 1.7k | `—` | solana-labs/token-list open-source repository on GitHub |
 | #16 | [**wakaleo/game-of-life**](https://git.zoyku.com/zh/repo/wakaleo/game-of-life) | `Other` | ⭐ 2.1k | `—` | wakaleo/game-of-life open-source repository on GitHub |
-| #17 | [**MiRO92/uYou-for-YouTube**](https://git.zoyku.com/zh/repo/MiRO92/uYou-for-YouTube) | `Other` | ⭐ 2.6k | `—` | MiRO92/uYou-for-YouTube open-source repository on GitHub |
+| #17 | [**MiRO92/uYou-for-YouTube**](https://git.zoyku.com/zh/repo/miro92/uyou-for-youtube) | `Other` | ⭐ 2.6k | `—` | MiRO92/uYou-for-YouTube open-source repository on GitHub |
 | #18 | [**digitalinnovationone/dio-lab-open-source**](https://git.zoyku.com/zh/repo/digitalinnovationone/dio-lab-open-source) | `Jupyter Notebook` | ⭐ 8.7k | `—` | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Di |
-| #19 | [**FIRST-Tech-Challenge/FtcRobotController**](https://git.zoyku.com/zh/repo/FIRST-Tech-Challenge/FtcRobotController) | `java` | ⭐ 1.4k | `—` | FIRST-Tech-Challenge/FtcRobotController open-source repository on GitHub |
+| #19 | [**FIRST-Tech-Challenge/FtcRobotController**](https://git.zoyku.com/zh/repo/first-tech-challenge/ftcrobotcontroller) | `java` | ⭐ 1.4k | `—` | FIRST-Tech-Challenge/FtcRobotController open-source repository on GitHub |
 | #20 | [**datasciencespecialization/courses**](https://git.zoyku.com/zh/repo/datasciencespecialization/courses) | `HTML` | ⭐ 4.2k | `—` | Course materials for the Data Science Specialization: https://www.coursera. |
 
 ---
@@ -552,7 +552,7 @@
 ### 🔹 JAVASCRIPT
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| #1 | [**org-0/project-0**](https://git.zoyku.com/zh/repo/org-0/project-0) | `javascript` | ⭐ 11.1k | `+1.1k` | Partial fixture |
+| #1 | [**org-0/project-0**](https://git.zoyku.com/zh/repo/org-0/project-0) | `javascript` | ⭐ 10.8k | `+800` | High performance javascript framework |
 
 ### 🔹 TYPESCRIPT
 | 排名 | 开源项目 | 语言 | 累计 Stars | 周增量 | 项目简介 |
